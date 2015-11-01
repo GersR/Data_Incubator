@@ -1,0 +1,16 @@
+---
+title: "Plot 1"
+output: html_document
+---
+We want to look at the rent price dispersion over the addresses so we make the following graph:
+
+```{r,fig.align='center',cache=TRUE,warning=FALSE,message=FALSE}
+library(ggmap)
+datos <- readRDS('/Users/Gers/Dropbox/Data\ Incubator/Project/data/datos_finales.rds')
+
+qmplot(lon, lat, data=datos, 
+       size=precio.c, alpha=I(0.8), color=precio_log,
+       geom=c('point'), source='google')
+```
+
+That graph shows that, in fact, are some places where the most expensive apartments are concentrated. The idea is apply spatial models in these data so we make a graph of the level curves of the prices in order to look that there is a zone where the price of the apartments is higher and when you get far of that zone the rent prices get lower.
