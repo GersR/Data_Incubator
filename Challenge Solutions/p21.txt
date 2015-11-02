@@ -1,0 +1,1715 @@
+"Var1" "Freq" "Porc"
+"1" "Department of Housing Preservation and Development" 3542235 0.353789753761888
+"2" "Department of Transportation" 1721266 0.17191583119096
+"3" "New York City Police Department" 1221325 0.121982948904643
+"4" "Department of Environmental Protection" 932699 0.0931556911226836
+"5" "Department of Buildings" 499726 0.0499114086130404
+"6" "Department of Parks and Recreation" 457534 0.0456973750182277
+"7" "Department of Health and Mental Hygiene" 286048 0.0285697734577408
+"8" "Taxi and Limousine Commission" 129356 0.0129197603737817
+"9" "Department of Finance" 123504 0.0123352769504587
+"10" "Department of Consumer Affairs" 123380 0.0123228921342434
+"11" "Department of Sanitation" 92103 0.00919902199902919
+"12" "BCC - Brooklyn South" 73482 0.00733920213817859
+"13" "A - Brooklyn" 57502 0.00574315888720429
+"14" "BCC - Brooklyn North" 57204 0.00571339537726747
+"15" "BCC - Queens East" 50377 0.005031531342574
+"16" "A - Queens" 49877 0.00498159256751223
+"17" "HRA Benefit Card Replacement" 48507 0.00484476032384297
+"18" "BCC - Staten Island" 48297 0.00482378603831702
+"19" "BCC - Queens West" 31303 0.00312646695151744
+"20" "A - Illegal Posting Staten Island, Queens and Brooklyn" 28203 0.00281684654613444
+"21" "DOB Inspections - Queens" 26172 0.00261399524183351
+"22" "BCC - Bronx" 24231 0.0024201329170437
+"23" "Bureau of Fire Prevention - Highrise Unit - Inspections" 23612 0.00235830871351723
+"24" "A - Manhattan" 23286 0.00232574863217695
+"25" "3-1-1 Call Center" 20061 0.00200364353302851
+"26" "Queens East 12" 19667 0.00196429177827983
+"27" "A - Bronx" 18845 0.00188219243207827
+"28" "A - Canine Task Force Citywide" 16957 0.00169362361744501
+"29" "Senior Citizen Rent Increase Exemption Unit" 16904 0.00168833010728846
+"30" "CHALL" 15600 0.00155808978192736
+"31" "A - Illegal Posting Manhattan and Bronx" 15479 0.00154600459836241
+"32" "A - Staten Island" 13981 0.00139638802827733
+"33" "Lot Cleaning" 12517 0.00125016729489646
+"34" "BCC - Manhattan" 10330 0.00103173509277626
+"35" "Queens East 10" 9851 0.000983893746267077
+"36" "Brooklyn North 03" 9742 0.00097300709330361
+"37" "P - Brooklyn and Staten Island" 8528 0.000851755747453622
+"38" "Queens West 03" 6971 0.000696246401911257
+"39" "Operations Unit - Department of Homeless Services" 6537 0.000652899545157637
+"40" "P - Queens" 6089 0.000608154402702287
+"41" "Brooklyn South 10" 6057 0.000604958321098333
+"42" "HRA" 5826 0.000581886607019794
+"43" "Economic Development Corporation" 5705 0.000569801423454844
+"44" "Manhattan 02" 5687 0.000568003627552621
+"45" "Queens West 02" 5360 0.00053534366866222
+"46" "Bronx 10" 5236 0.0005229588524469
+"47" "Bronx 11" 4853 0.000484705750749581
+"48" "Department of Information Technology and Telecommunications" 4766 0.000476016403888832
+"49" "Manhattan 04" 4672 0.000466627914177219
+"50" "Queens West 04" 4625 0.000461933669321412
+"51" "Manhattan 03" 4614 0.000460835016270053
+"52" "Queens West 06" 4442 0.000443656077648803
+"53" "P - Manhattan and Bronx" 4390 0.000438462445042378
+"54" "Manhattan 07" 4198 0.000419285955418657
+"55" "Manhattan 08" 4190 0.000418486935017668
+"56" "Correspondence - Taxi and Limousine Commission" 4176 0.000417088649315939
+"57" "Manhattan 06" 3104 0.000310019915583495
+"58" "DRIE Unit" 3064 0.000306024813578553
+"59" "Bronx 08" 2983 0.000297934732018545
+"60" "Central - Department of Education" 2926 0.000292241711661503
+"61" "Bureau of Fire Prevention - Alarm Unit - Inspections" 2780 0.000277659589343465
+"62" "Manhattan 05" 2733 0.000272965344487658
+"63" "Bronx 03" 2640 0.000263676732326168
+"64" "311 Executive Office - EC" 2375 0.000237209181543428
+"65" "Bronx 04" 2339 0.00023361358973898
+"66" "Department for the Aging" 2151 0.000214836610315753
+"67" "Manhattan 01" 1979 0.000197657671694503
+"68" "Personal Exemption Unit" 1570 0.000156807753693971
+"69" "Bronx 05" 1566 0.000156408243493477
+"70" "FDNY" 1464 0.000146220733380875
+"71" "Exemption Unit" 1427 0.000142525264026304
+"72" "OPS" 1275 0.000127343876407524
+"73" "DPR" 1248 0.000124647182554189
+"74" "NYC Emergency Management" 964 9.62819583191008e-05
+"75" "Refunds and Adjustments" 953 9.51833052677417e-05
+"76" "Commissioner - EC" 851 8.49957951551398e-05
+"77" "P - Commercial Recycling Citywide" 836 8.34976319032866e-05
+"78" "DSNY" 688 6.87157544850014e-05
+"79" "Division of Alternative Management" 441 4.40459996044849e-05
+"80" "DOB Inspections - Brooklyn" 415 4.14491833012726e-05
+"81" "DOHMH" 313 3.12616731886707e-05
+"82" "Bureau of Fire Prevention - Public Assembly Unit - Inspections" 289 2.88646119857055e-05
+"83" "OATH" 259 2.58682854819991e-05
+"84" "DOB Inspections - Manhattan" 197 1.96758773743391e-05
+"85" "DOP" 162 1.61801631200149e-05
+"86" "One Stop Booth" 159 1.58805304696442e-05
+"87" "DOT" 156 1.55808978192736e-05
+"88" "DHS Advantage Programs" 154 1.53811427190265e-05
+"89" "DOB Inspections - Bronx" 147 1.46819998681616e-05
+"90" "DHS Commissioner - EC" 76 7.59069380938969e-06
+"91" "School - Fort Hamilton High School" 66 6.5919183081542e-06
+"92" "School - PS 57 Crescent" 66 6.5919183081542e-06
+"93" "School - The High School of Fashion Industries" 59 5.89277545728936e-06
+"94" "School - Art and Design High School" 56 5.59314280691872e-06
+"95" "Bureau of Fire Prevention - Fire Suppression Unit - Inspections" 54 5.39338770667162e-06
+"96" "School - PS 186 Dr Irving A Gladstone" 53 5.29351015654807e-06
+"97" "School - Long Island City High School" 52 5.19363260642452e-06
+"98" "School - New Dorp High School" 47 4.69424485580678e-06
+"99" "School - PS 197 The Kings Highway Academy" 46 4.59436730568323e-06
+"100" "School - Herbert H Lehman High School" 43 4.29473465531259e-06
+"101" "School - John F Kennedy High School" 43 4.29473465531259e-06
+"102" "School - PS 43" 40 3.99510200494194e-06
+"103" "School - MS 322" 39 3.89522445481839e-06
+"104" "School - PS 89 Bronx" 39 3.89522445481839e-06
+"105" "School - PS IS 210 Twenty-First Century Academy for Community Leadership" 39 3.89522445481839e-06
+"106" "School - Washington Irving High School" 37 3.6954693545713e-06
+"107" "School - PS 30 Westerleigh" 36 3.59559180444775e-06
+"108" "School - PS 161 The Crown" 34 3.39583670420065e-06
+"109" "School - PS 200 Benson School" 34 3.39583670420065e-06
+"110" "DEP" 33 3.2959591540771e-06
+"111" "School - The Facing History School" 33 3.2959591540771e-06
+"112" "School - PS 222 Katherine R Snyder" 32 3.19608160395355e-06
+"113" "School - PS 71 Rose E Scala" 32 3.19608160395355e-06
+"114" "School - Bread and Roses Integrated Arts High School" 31 3.09620405383e-06
+"115" "School - IS 303 Herbert S Eisenberg" 31 3.09620405383e-06
+"116" "School - PS 150 Queens" 31 3.09620405383e-06
+"117" "School - PS 207 Rockwood Park" 31 3.09620405383e-06
+"118" "School - PS 261 Philip Livingston" 31 3.09620405383e-06
+"119" "School - PS 32 The Gifford School" 31 3.09620405383e-06
+"120" "School - EBC High School for Public Service - Bushwick" 30 2.99632650370646e-06
+"121" "School - Hillcrest High School" 30 2.99632650370646e-06
+"122" "School - PS 121 Queens" 30 2.99632650370646e-06
+"123" "School - Abraham Lincoln High School" 29 2.89644895358291e-06
+"124" "School - Achievement First Crown Heights Charter School" 29 2.89644895358291e-06
+"125" "School - PS 118 Lorraine Hansberry" 29 2.89644895358291e-06
+"126" "School - PS 255 Barbara Reing School" 29 2.89644895358291e-06
+"127" "School - Tottenville High School" 29 2.89644895358291e-06
+"128" "School - PS 166 Henry Gradstein" 27 2.69669385333581e-06
+"129" "School - PS 50 Talfourd Lawn Elementary School" 27 2.69669385333581e-06
+"130" "MOIA" 25 2.49693875308871e-06
+"131" "School - PS 123 Mahalia Jackson" 25 2.49693875308871e-06
+"132" "School - Richmond Hill High School" 25 2.49693875308871e-06
+"133" "School - Young Women's Leadership School" 25 2.49693875308871e-06
+"134" "Bureau of Fire Prevention - Hazmat Unit - Inspections" 24 2.39706120296516e-06
+"135" "School - A Philip Randolph Campus High School" 24 2.39706120296516e-06
+"136" "School - Baruch College Campus High School" 24 2.39706120296516e-06
+"137" "School - New Utrecht High School" 24 2.39706120296516e-06
+"138" "School - PS 178 - Dr Selman Waksman" 24 2.39706120296516e-06
+"139" "School - PS 224 Hale A Woodruff" 24 2.39706120296516e-06
+"140" "School - PS 45 John Tyler" 24 2.39706120296516e-06
+"141" "School - Growing Up Green Charter School" 23 2.29718365284162e-06
+"142" "School - PS 124 Osmond A Church" 23 2.29718365284162e-06
+"143" "Bureau of Fire Prevention - Range Hood Unit - Inspections" 22 2.19730610271807e-06
+"144" "Discrepancy and Billing" 22 2.19730610271807e-06
+"145" "School - Frederick Douglass Academy" 22 2.19730610271807e-06
+"146" "School - IS 61 William A Morris" 22 2.19730610271807e-06
+"147" "School - Jane Addams High School for Academic Careers" 22 2.19730610271807e-06
+"148" "School - PS 36 J C Drumgoole" 22 2.19730610271807e-06
+"149" "School - PS 75 Emily Dickinson" 22 2.19730610271807e-06
+"150" "COIB" 21 2.09742855259452e-06
+"151" "School - Brooklyn Studio Secondary School" 21 2.09742855259452e-06
+"152" "School - Port Richmond High School" 21 2.09742855259452e-06
+"153" "School - PS 207 Elizabeth G Leary" 21 2.09742855259452e-06
+"154" "School - PS 68 Bronx" 21 2.09742855259452e-06
+"155" "School - Community Health Academy of the Heights" 20 1.99755100247097e-06
+"156" "School - Dewitt Clinton High School" 20 1.99755100247097e-06
+"157" "School - JHS 78 Roy H Mann" 20 1.99755100247097e-06
+"158" "School - PS 165 Robert E Simon" 20 1.99755100247097e-06
+"159" "School - PS 225 The Eileen E Zaglin" 20 1.99755100247097e-06
+"160" "School - PS 93 Albert G Oliver" 20 1.99755100247097e-06
+"161" "School - The Urban Assembly School of Business for Young Women" 20 1.99755100247097e-06
+"162" "School - JHS 88 Peter Rouget" 19 1.89767345234742e-06
+"163" "School - Norman Thomas High School" 19 1.89767345234742e-06
+"164" "School - PS 226 Alfred De B Mason" 19 1.89767345234742e-06
+"165" "School - PS 36 Margaret Douglas" 19 1.89767345234742e-06
+"166" "School - PS 63 Old South" 19 1.89767345234742e-06
+"167" "School - Clara Barton High School" 18 1.79779590222387e-06
+"168" "School - Fiorello H Laguardia High School of Music and Art and Performing Arts" 18 1.79779590222387e-06
+"169" "School - Harvest Collegiate High School" 18 1.79779590222387e-06
+"170" "School - PS 282 Park Slope" 18 1.79779590222387e-06
+"171" "School - PS 56 The Louis Desario School" 18 1.79779590222387e-06
+"172" "School - PS 70 Queens" 18 1.79779590222387e-06
+"173" "School - PS 83 Donald Hertz" 18 1.79779590222387e-06
+"174" "School - PS 9 Teunis G Bergen" 18 1.79779590222387e-06
+"175" "DOB Inspections - Staten Island" 17 1.69791835210033e-06
+"176" "School - Brooklyn Technical High School" 17 1.69791835210033e-06
+"177" "School - High School of Graphic Communication Arts" 17 1.69791835210033e-06
+"178" "School - PS 194 Countee Cullen" 17 1.69791835210033e-06
+"179" "School - PS 20 P O George J Werdan III" 17 1.69791835210033e-06
+"180" "School - PS 242 The Young Diplomats Magnet Academy" 17 1.69791835210033e-06
+"181" "School - PS 30 Queens" 17 1.69791835210033e-06
+"182" "School - PS 5 Dr Ronald Mcnair" 17 1.69791835210033e-06
+"183" "School - PS 76 A Philip Randolph" 17 1.69791835210033e-06
+"184" "Payment Operations" 16 1.59804080197678e-06
+"185" "School - Andries Hudde" 16 1.59804080197678e-06
+"186" "School - Choir Academy of Harlem" 16 1.59804080197678e-06
+"187" "School - Harlem Children's Zone Promise Academy II" 16 1.59804080197678e-06
+"188" "School - IS 125 Thom J McCann Woodside" 16 1.59804080197678e-06
+"189" "School - IS 238 Susan B Anthony Academy" 16 1.59804080197678e-06
+"190" "School - New Explorers High School" 16 1.59804080197678e-06
+"191" "School - PS 105 Senator Abraham Bernstein" 16 1.59804080197678e-06
+"192" "School - PS 139 Alexine A Fenty" 16 1.59804080197678e-06
+"193" "School - PS 160 William T Sampson" 16 1.59804080197678e-06
+"194" "School - PS 166 The Richard Rodgers School of the Arts and Technology" 16 1.59804080197678e-06
+"195" "School - PS 205 Clarion" 16 1.59804080197678e-06
+"196" "School - PS 3 The Bedford Village" 16 1.59804080197678e-06
+"197" "School - PS 3 The Margaret Gioiosa School" 16 1.59804080197678e-06
+"198" "School - PS 354" 16 1.59804080197678e-06
+"199" "School - PS 54 Samuel C Barnes" 16 1.59804080197678e-06
+"200" "School - PS 87 William Sherman" 16 1.59804080197678e-06
+"201" "NYPD" 15 1.49816325185323e-06
+"202" "School - Baccalaureate School for Global Education" 15 1.49816325185323e-06
+"203" "School - JHS 123 James M Kieran" 15 1.49816325185323e-06
+"204" "School - JHS 62 Ditmas" 15 1.49816325185323e-06
+"205" "School - Mosaic Preparatory Academy" 15 1.49816325185323e-06
+"206" "School - PS - MS 114 Belle Harbor" 15 1.49816325185323e-06
+"207" "School - PS 100 The Coney Island School" 15 1.49816325185323e-06
+"208" "School - PS 111 Adolph S Ochs" 15 1.49816325185323e-06
+"209" "School - PS 163 Alfred E Smith" 15 1.49816325185323e-06
+"210" "School - PS 182" 15 1.49816325185323e-06
+"211" "School - PS 188 Island School" 15 1.49816325185323e-06
+"212" "School - PS 189" 15 1.49816325185323e-06
+"213" "School - PS 191 Amsterdam" 15 1.49816325185323e-06
+"214" "School - PS 329 Surfside" 15 1.49816325185323e-06
+"215" "School - PS 38 The Pacific" 15 1.49816325185323e-06
+"216" "School - PS 92 Mary McLeod Bethune" 15 1.49816325185323e-06
+"217" "School - Ps-IS 268" 15 1.49816325185323e-06
+"218" "School - South Shore Educational Complex YABC" 15 1.49816325185323e-06
+"219" "School - STEM Institute of Manhattan" 15 1.49816325185323e-06
+"220" "DFTA" 14 1.39828570172968e-06
+"221" "MOVA" 14 1.39828570172968e-06
+"222" "School - Brooklyn High School of the Arts" 14 1.39828570172968e-06
+"223" "School - High School for Environmental Studies" 14 1.39828570172968e-06
+"224" "School - International Leadership Charter High School" 14 1.39828570172968e-06
+"225" "School - Jacqueline Kennedy Onassis High School" 14 1.39828570172968e-06
+"226" "School - MS 61 Dr Gladstone H Atwell" 14 1.39828570172968e-06
+"227" "School - PS 102 Joseph O Loretan" 14 1.39828570172968e-06
+"228" "School - PS 148 Queens" 14 1.39828570172968e-06
+"229" "School - PS 176 Cambria Heights" 14 1.39828570172968e-06
+"230" "School - PS 193 Alfred J Kennedy" 14 1.39828570172968e-06
+"231" "School - PS 209 Margaret Mead" 14 1.39828570172968e-06
+"232" "School - PS 229 Dyker" 14 1.39828570172968e-06
+"233" "School - PS 28 The Warren Prep Academy" 14 1.39828570172968e-06
+"234" "School - PS 28 Wright Brothers" 14 1.39828570172968e-06
+"235" "School - PS 32 Samuels Mills Sprole" 14 1.39828570172968e-06
+"236" "School - PS 7 Abraham Lincoln" 14 1.39828570172968e-06
+"237" "School - PS 88 Seneca" 14 1.39828570172968e-06
+"238" "School - PS-IS 295" 14 1.39828570172968e-06
+"239" "School - Susan E Wagner High School" 14 1.39828570172968e-06
+"240" "School - Wadleigh Secondary School for the Performing and Visual Arts" 14 1.39828570172968e-06
+"241" "MOFTB" 13 1.29840815160613e-06
+"242" "School - Bronx Leadership Academy High School" 13 1.29840815160613e-06
+"243" "School - Christopher Columbus High School" 13 1.29840815160613e-06
+"244" "School - IS 119 The Glendale" 13 1.29840815160613e-06
+"245" "School - IS 141 The Steinway" 13 1.29840815160613e-06
+"246" "School - IS 187" 13 1.29840815160613e-06
+"247" "School - JHS 74 Nathaniel Hawthorne" 13 1.29840815160613e-06
+"248" "School - Life Sciences Secondary School" 13 1.29840815160613e-06
+"249" "School - MS 137 America's School of Heroes" 13 1.29840815160613e-06
+"250" "School - New York City Academy for Discovery" 13 1.29840815160613e-06
+"251" "School - PS 106 Edward Everett Hale" 13 1.29840815160613e-06
+"252" "School - PS 117 J Keld - Briarwood School" 13 1.29840815160613e-06
+"253" "School - PS 140 Edward K Ellington" 13 1.29840815160613e-06
+"254" "School - PS 163 Bath Beach" 13 1.29840815160613e-06
+"255" "School - PS 198 Isador E Ida Straus" 13 1.29840815160613e-06
+"256" "School - PS 236 Mill Basin" 13 1.29840815160613e-06
+"257" "School - PS 250 George H Lindsay" 13 1.29840815160613e-06
+"258" "School - PS 273 Wortman" 13 1.29840815160613e-06
+"259" "School - PS 315" 13 1.29840815160613e-06
+"260" "School - PS 345 Patrolman Robert Bolden" 13 1.29840815160613e-06
+"261" "School - PS 48 William C Wilcox" 13 1.29840815160613e-06
+"262" "School - PS 5 Ellen Lurie" 13 1.29840815160613e-06
+"263" "School - PS 8 Issac Varian" 13 1.29840815160613e-06
+"264" "FUND" 12 1.19853060148258e-06
+"265" "Mayor's Office of Operations" 12 1.19853060148258e-06
+"266" "RPIE Unit" 12 1.19853060148258e-06
+"267" "School - August Martin High School" 12 1.19853060148258e-06
+"268" "School - Benjamin N Cardozo High School" 12 1.19853060148258e-06
+"269" "School - Frank McCourt High School" 12 1.19853060148258e-06
+"270" "School - IS 181 Pablo Casals" 12 1.19853060148258e-06
+"271" "School - JHS 216 George J Ryan" 12 1.19853060148258e-06
+"272" "School - Juan Morel Campos Secondary School" 12 1.19853060148258e-06
+"273" "School - MS 319 - Maria Teresa" 12 1.19853060148258e-06
+"274" "School - New Explorations Science, Technology and Math High School" 12 1.19853060148258e-06
+"275" "School - PS 114 Ryder Elementary" 12 1.19853060148258e-06
+"276" "School - PS 126 Dr Marjorie H Dunbar" 12 1.19853060148258e-06
+"277" "School - PS 133 William A Butler" 12 1.19853060148258e-06
+"278" "School - PS 149 Sojourner Truth" 12 1.19853060148258e-06
+"279" "School - PS 175 City Island" 12 1.19853060148258e-06
+"280" "School - PS 175 Henry H Garnet" 12 1.19853060148258e-06
+"281" "School - PS 198 Brooklyn" 12 1.19853060148258e-06
+"282" "School - PS 20 Clinton Hill" 12 1.19853060148258e-06
+"283" "School - PS 212 - Queens" 12 1.19853060148258e-06
+"284" "School - PS 279 Captain Manuel Rivera Jr" 12 1.19853060148258e-06
+"285" "School - PS 333 Manhattan School for Children" 12 1.19853060148258e-06
+"286" "School - PS 346 Abe Stark" 12 1.19853060148258e-06
+"287" "School - PS 75 Mayda Cortiella" 12 1.19853060148258e-06
+"288" "School - PS 92 Adrian Hegeman" 12 1.19853060148258e-06
+"289" "School - PS K225 The Eileen E Zaglin" 12 1.19853060148258e-06
+"290" "School - PS-IS 116 William C Hughley" 12 1.19853060148258e-06
+"291" "School - Urban Assembly Academy of Government and Law" 12 1.19853060148258e-06
+"292" "3-1-1" 11 1.09865305135903e-06
+"293" "School - Academy of Finance and Enterprise" 11 1.09865305135903e-06
+"294" "School - Adlai E Stevenson High School" 11 1.09865305135903e-06
+"295" "School - Bayside High School" 11 1.09865305135903e-06
+"296" "School - Curtis High School" 11 1.09865305135903e-06
+"297" "School - IS 211 John Wilson" 11 1.09865305135903e-06
+"298" "School - IS 237" 11 1.09865305135903e-06
+"299" "School - IS 339" 11 1.09865305135903e-06
+"300" "School - IS 68 Isaac Bildersee" 11 1.09865305135903e-06
+"301" "School - MS 51 William Alexander" 11 1.09865305135903e-06
+"302" "School - Murry Bergtraum High School for Business Careers" 11 1.09865305135903e-06
+"303" "School - PS 123" 11 1.09865305135903e-06
+"304" "School - PS 129 Twin Parks Upper" 11 1.09865305135903e-06
+"305" "School - PS 131 Brooklyn" 11 1.09865305135903e-06
+"306" "School - PS 139 Rego Park" 11 1.09865305135903e-06
+"307" "School - PS 15 Institute for Environmental Learning" 11 1.09865305135903e-06
+"308" "School - PS 152 Dyckman Valley" 11 1.09865305135903e-06
+"309" "School - PS 155 William Paca" 11 1.09865305135903e-06
+"310" "School - PS 164 Caesar Rodney" 11 1.09865305135903e-06
+"311" "School - PS 196 Grand Central Parkway" 11 1.09865305135903e-06
+"312" "School - PS 206 The Horace Harding School" 11 1.09865305135903e-06
+"313" "School - PS 212 Lady Deborah Moody" 11 1.09865305135903e-06
+"314" "School - PS 215 Morris H Weiss" 11 1.09865305135903e-06
+"315" "School - PS 217 Colonel David Marcus School" 11 1.09865305135903e-06
+"316" "School - PS 22 Graniteville" 11 1.09865305135903e-06
+"317" "School - PS 234 Independence School" 11 1.09865305135903e-06
+"318" "School - PS 262 El Hajj Malik El Shabazz Elementary School" 11 1.09865305135903e-06
+"319" "School - PS 288 The Shirley Tanyhill" 11 1.09865305135903e-06
+"320" "School - PS 377 Alejandrina B De Gautier" 11 1.09865305135903e-06
+"321" "School - PS 42 Eltingville" 11 1.09865305135903e-06
+"322" "School - PS 54 Charles W Leng" 11 1.09865305135903e-06
+"323" "School - PS 63 Author's Academy" 11 1.09865305135903e-06
+"324" "School - PS 79 Francis Lewis" 11 1.09865305135903e-06
+"325" "School - PS 80 Thurgood Marshall Magnet" 11 1.09865305135903e-06
+"326" "School - PS 84 Lillian Weber" 11 1.09865305135903e-06
+"327" "School - PS 91 The Albany Avenue School" 11 1.09865305135903e-06
+"328" "School - PS-IS 208" 11 1.09865305135903e-06
+"329" "School - Unity Center for Urban Technologies" 11 1.09865305135903e-06
+"330" "School - William Cullen Bryant High School" 11 1.09865305135903e-06
+"331" "CCRB" 10 9.98775501235485e-07
+"332" "DCA" 10 9.98775501235485e-07
+"333" "LAW" 10 9.98775501235485e-07
+"334" "School - Academy of Urban Planning" 10 9.98775501235485e-07
+"335" "School - Albert Shanker School for Visual and Performing Arts" 10 9.98775501235485e-07
+"336" "School - Boys and Girls High School" 10 9.98775501235485e-07
+"337" "School - Forest Hills High School" 10 9.98775501235485e-07
+"338" "School - Harry S Truman High School" 10 9.98775501235485e-07
+"339" "School - High School for Violin and Dance" 10 9.98775501235485e-07
+"340" "School - IS 218 Salome Urena" 10 9.98775501235485e-07
+"341" "School - IS 230" 10 9.98775501235485e-07
+"342" "School - JHS 190 Russell Sage" 10 9.98775501235485e-07
+"343" "School - JHS 201 The Dyker Heights" 10 9.98775501235485e-07
+"344" "School - JHS 217 Robert A Van Wyck" 10 9.98775501235485e-07
+"345" "School - JHS 234 Arthur W Cunningham" 10 9.98775501235485e-07
+"346" "School - JHS 8 Richard S Grossley" 10 9.98775501235485e-07
+"347" "School - John Bowne High School" 10 9.98775501235485e-07
+"348" "School - NYC Lab Middle School for Collaborative Studies" 10 9.98775501235485e-07
+"349" "School - Park East High School" 10 9.98775501235485e-07
+"350" "School - PS 116 Mary Lindley Murray" 10 9.98775501235485e-07
+"351" "School - PS 132 Juan Pablo Duarte" 10 9.98775501235485e-07
+"352" "School - PS 149 Danny Kaye" 10 9.98775501235485e-07
+"353" "School - PS 153 Hellen Keller" 10 9.98775501235485e-07
+"354" "School - PS 16 Leonard Dunkly" 10 9.98775501235485e-07
+"355" "School - PS 160 Walt Disney" 10 9.98775501235485e-07
+"356" "School - PS 175 The Lynn Gross Discovery School" 10 9.98775501235485e-07
+"357" "School - PS 179" 10 9.98775501235485e-07
+"358" "School - PS 181 Brooklyn" 10 9.98775501235485e-07
+"359" "School - PS 19 Asher Levy" 10 9.98775501235485e-07
+"360" "School - PS 197 John B Russwurm" 10 9.98775501235485e-07
+"361" "School - PS 33 Chelsea School" 10 9.98775501235485e-07
+"362" "School - PS 46 Edward C Blum" 10 9.98775501235485e-07
+"363" "School - PS 52 Sheepshead Bay" 10 9.98775501235485e-07
+"364" "School - PS 60 Alice Austen" 10 9.98775501235485e-07
+"365" "School - PS 83 Luis Munoz Rivera" 10 9.98775501235485e-07
+"366" "School - PS 90 Horace Mann" 10 9.98775501235485e-07
+"367" "School - The Bronx Mathematics Preparatory School" 10 9.98775501235485e-07
+"368" "School - The Marie Curie School for Medicine, Nursing, and Health Professions" 10 9.98775501235485e-07
+"369" "School - The Math and Science Exploratory School" 10 9.98775501235485e-07
+"370" "School - Thomas Jefferson YABC" 10 9.98775501235485e-07
+"371" "School - Williamsburg Charter High School" 10 9.98775501235485e-07
+"372" "DCLA" 9 8.98897951111937e-07
+"373" "MOC" 9 8.98897951111937e-07
+"374" "NYCHA" 9 8.98897951111937e-07
+"375" "NYCOOA" 9 8.98897951111937e-07
+"376" "School - Flushing High School" 9 8.98897951111937e-07
+"377" "School - Food and Finance High School" 9 8.98897951111937e-07
+"378" "School - Gaynor McCown Expeditionary Learning School" 9 8.98897951111937e-07
+"379" "School - Grace Dodge Career and Technical Education High School" 9 8.98897951111937e-07
+"380" "School - High School for Law, Advocacy and Community Justice" 9 8.98897951111937e-07
+"381" "School - High School of Sports Management" 9 8.98897951111937e-07
+"382" "School - JHS 291 Roland Hayes" 9 8.98897951111937e-07
+"383" "School - Learners and Leaders" 9 8.98897951111937e-07
+"384" "School - Medgar Evers College Preparatory School" 9 8.98897951111937e-07
+"385" "School - Merrick Academy Queens Public Charter School" 9 8.98897951111937e-07
+"386" "School - Midwood High School" 9 8.98897951111937e-07
+"387" "School - PS 138 Samuel Randall" 9 8.98897951111937e-07
+"388" "School - PS 142 Amalia Castro" 9 8.98897951111937e-07
+"389" "School - PS 153 Maspeth Elem" 9 8.98897951111937e-07
+"390" "School - PS 157 Benjamin Franklin" 9 8.98897951111937e-07
+"391" "School - PS 161 Pedro Albizu Campos" 9 8.98897951111937e-07
+"392" "School - PS 178 Saint Clair McKelway" 9 8.98897951111937e-07
+"393" "School - PS 200- The James McCune Smith School" 9 8.98897951111937e-07
+"394" "School - PS 201 The Discovery School for Inquiry and Research" 9 8.98897951111937e-07
+"395" "School - PS 205 Alexander Graham Bell" 9 8.98897951111937e-07
+"396" "School - PS 209 Clearview Gardens" 9 8.98897951111937e-07
+"397" "School - PS 211" 9 8.98897951111937e-07
+"398" "School - PS 214 Cadwallader Colden" 9 8.98897951111937e-07
+"399" "School - PS 229 Emanuel Kaplan" 9 8.98897951111937e-07
+"400" "School - PS 23 The New Childrens School" 9 8.98897951111937e-07
+"401" "School - PS 297 Abraham Stockton" 9 8.98897951111937e-07
+"402" "School - PS 304 Early Childhood School" 9 8.98897951111937e-07
+"403" "School - PS 33 Timothy Dwight" 9 8.98897951111937e-07
+"404" "School - PS 335 Granville T Woods" 9 8.98897951111937e-07
+"405" "School - PS 360" 9 8.98897951111937e-07
+"406" "School - PS 41 Gun Hill Road" 9 8.98897951111937e-07
+"407" "School - PS 49 Dorothy Bonawit Kole" 9 8.98897951111937e-07
+"408" "School - PS 57 Hubert H Humphrey" 9 8.98897951111937e-07
+"409" "School - PS 78 Anne Hutchinson" 9 8.98897951111937e-07
+"410" "School - PS 94 Kings College School" 9 8.98897951111937e-07
+"411" "School - PS MS 42 R Vernam" 9 8.98897951111937e-07
+"412" "School - Queens High School of Teaching, Liberal Arts, and the Sciences" 9 8.98897951111937e-07
+"413" "School - School for Environmental Citizenship" 9 8.98897951111937e-07
+"414" "School - Science Skills Center High School for Science, Technology, and the Creative Arts" 9 8.98897951111937e-07
+"415" "AJC" 8 7.99020400988388e-07
+"416" "CAU" 8 7.99020400988388e-07
+"417" "DCAS" 8 7.99020400988388e-07
+"418" "Internal Affairs Bureau" 8 7.99020400988388e-07
+"419" "NYCPPF" 8 7.99020400988388e-07
+"420" "School - 47 The American Sign Language and English Secondary School" 8 7.99020400988388e-07
+"421" "School - Academy for Environmental Leadership" 8 7.99020400988388e-07
+"422" "School - Brooklyn School for Global Studies" 8 7.99020400988388e-07
+"423" "School - Bushwick Community High School" 8 7.99020400988388e-07
+"424" "School - Cobble Hill School of American Studies" 8 7.99020400988388e-07
+"425" "School - East New York Family Academy" 8 7.99020400988388e-07
+"426" "School - Enterprise, Business, and Technology High School" 8 7.99020400988388e-07
+"427" "School - Evander Childs Evening High School" 8 7.99020400988388e-07
+"428" "School - Family Life Academy Charter School" 8 7.99020400988388e-07
+"429" "School - Francis Lewis High School" 8 7.99020400988388e-07
+"430" "School - Frederick Douglass Academy VII High School" 8 7.99020400988388e-07
+"431" "School - International Community High School" 8 7.99020400988388e-07
+"432" "School - IS 136 Charles O Dewey" 8 7.99020400988388e-07
+"433" "School - IS 206 Ann Mersereau" 8 7.99020400988388e-07
+"434" "School - IS 296 The Anna Gonzalez Community School" 8 7.99020400988388e-07
+"435" "School - IS 381" 8 7.99020400988388e-07
+"436" "School - IS 72 Rocco Laurie" 8 7.99020400988388e-07
+"437" "School - JHS 80 The Mosholu Parkway" 8 7.99020400988388e-07
+"438" "School - John Adams High School" 8 7.99020400988388e-07
+"439" "School - Legacy School" 8 7.99020400988388e-07
+"440" "School - Magnet School of Math, Science and Design Technology" 8 7.99020400988388e-07
+"441" "School - Manhattan Theatre Lab High School" 8 7.99020400988388e-07
+"442" "School - New World High School" 8 7.99020400988388e-07
+"443" "School - PS 1 Alfred E Smith" 8 7.99020400988388e-07
+"444" "School - PS 111 Seton Falls" 8 7.99020400988388e-07
+"445" "School - PS 128 The Lorraine Tuzzo Juniper Valley Elementary School" 8 7.99020400988388e-07
+"446" "School - PS 13 Clement C Moore" 8 7.99020400988388e-07
+"447" "School - PS 133 Fred R Moore" 8 7.99020400988388e-07
+"448" "School - PS 145 Andrew Jackson" 8 7.99020400988388e-07
+"449" "School - PS 15 Patrick F Daly" 8 7.99020400988388e-07
+"450" "School - PS 152 Evergreen" 8 7.99020400988388e-07
+"451" "School - PS 171 Peter G Van Alst" 8 7.99020400988388e-07
+"452" "School - PS 179 Kensington" 8 7.99020400988388e-07
+"453" "School - PS 189 Lincoln Terrace" 8 7.99020400988388e-07
+"454" "School - PS 196" 8 7.99020400988388e-07
+"455" "School - PS 20 Port Richmond" 8 7.99020400988388e-07
+"456" "School - PS 206 Joseph F Lamb" 8 7.99020400988388e-07
+"457" "School - PS 214" 8 7.99020400988388e-07
+"458" "School - PS 230 Dr Roland N Patterson" 8 7.99020400988388e-07
+"459" "School - PS 24 Spuyten Duyvil" 8 7.99020400988388e-07
+"460" "School - PS 289 George V Brower" 8 7.99020400988388e-07
+"461" "School - PS 4 Maurice Wollin" 8 7.99020400988388e-07
+"462" "School - PS 44 Thomas C Brown" 8 7.99020400988388e-07
+"463" "School - PS 45 Horace E Greene" 8 7.99020400988388e-07
+"464" "School - PS 50 Frank Hankinson" 8 7.99020400988388e-07
+"465" "School - PS 50 Vito Marcantonio" 8 7.99020400988388e-07
+"466" "School - PS 55 Henry M Boehm" 8 7.99020400988388e-07
+"467" "School - PS 7 Samuel Stern" 8 7.99020400988388e-07
+"468" "School - PS 8 Robert Fulton" 8 7.99020400988388e-07
+"469" "School - PS 85 Great Expectations" 8 7.99020400988388e-07
+"470" "School - PS 87 Bronx" 8 7.99020400988388e-07
+"471" "School - PS-IS 384 Frances E Carter" 8 7.99020400988388e-07
+"472" "School - Ralph A Fabrizio School" 8 7.99020400988388e-07
+"473" "School - Richard R Green High School of Teaching" 8 7.99020400988388e-07
+"474" "School - School for Excellence" 8 7.99020400988388e-07
+"475" "School - Tag Young Scholars" 8 7.99020400988388e-07
+"476" "School - The River School" 8 7.99020400988388e-07
+"477" "School - The Urban Assembly Bronx Academy of Letters" 8 7.99020400988388e-07
+"478" "School - Thurgood Marshall Academy for Learning and Social Change" 8 7.99020400988388e-07
+"479" "TLC" 8 7.99020400988388e-07
+"480" "DOC" 7 6.9914285086484e-07
+"481" "DoITT" 7 6.9914285086484e-07
+"482" "DYCD" 7 6.9914285086484e-07
+"483" "MOPD" 7 6.9914285086484e-07
+"484" "OCME" 7 6.9914285086484e-07
+"485" "School - Brooklyn Scholars Charter School" 7 6.9914285086484e-07
+"486" "School - Dr Jacqueline Peek-Davis School" 7 6.9914285086484e-07
+"487" "School - Explorations Academy" 7 6.9914285086484e-07
+"488" "School - Franklin Delano Roosevelt High School" 7 6.9914285086484e-07
+"489" "School - Franklin K Lane High School" 7 6.9914285086484e-07
+"490" "School - Gateway School for Environmental Research and Technology" 7 6.9914285086484e-07
+"491" "School - Hebrew Language Academy Charter School" 7 6.9914285086484e-07
+"492" "School - High School of Economics and Finance" 7 6.9914285086484e-07
+"493" "School - IS 025 Adrien Block" 7 6.9914285086484e-07
+"494" "School - IS 10 Horace Greeley" 7 6.9914285086484e-07
+"495" "School - IS 2 George L Egbert" 7 6.9914285086484e-07
+"496" "School - IS 231 Magnetech 2000" 7 6.9914285086484e-07
+"497" "School - IS 24 Myra S Barnes" 7 6.9914285086484e-07
+"498" "School - IS 313 School of Leadership Development" 7 6.9914285086484e-07
+"499" "School - IS 51 Edwin Markham" 7 6.9914285086484e-07
+"500" "School - IS 7 Elias Bernstein" 7 6.9914285086484e-07
+"501" "School - IS 73 - The Frank Sansivieri Intermediate School" 7 6.9914285086484e-07
+"502" "School - JHS 127 The Castle Hill" 7 6.9914285086484e-07
+"503" "School - JHS 218 James P Sinnott" 7 6.9914285086484e-07
+"504" "School - JHS 223 The Montauk" 7 6.9914285086484e-07
+"505" "School - JHS 302 Rafael Cordero" 7 6.9914285086484e-07
+"506" "School - JHS 50 John D Wells" 7 6.9914285086484e-07
+"507" "School - Middle School 322" 7 6.9914285086484e-07
+"508" "School - MS 35 Stephen Decatur" 7 6.9914285086484e-07
+"509" "School - PS 1 Tottenville" 7 6.9914285086484e-07
+"510" "School - PS 11 Kathryn Phelan" 7 6.9914285086484e-07
+"511" "School - PS 11 Thomas Dongan School" 7 6.9914285086484e-07
+"512" "School - PS 114 - Luis Llorens Torres Schools" 7 6.9914285086484e-07
+"513" "School - PS 122 Mamie Fay" 7 6.9914285086484e-07
+"514" "School - PS 127 Aerospace Science Magne" 7 6.9914285086484e-07
+"515" "School - PS 127 McKinley Park" 7 6.9914285086484e-07
+"516" "School - PS 134 Henrietta Szold" 7 6.9914285086484e-07
+"517" "School - PS 143 Louis Armstrong" 7 6.9914285086484e-07
+"518" "School - PS 154 Jonathan D Hyatt" 7 6.9914285086484e-07
+"519" "School - PS 158 Bayard Taylor" 7 6.9914285086484e-07
+"520" "School - PS 160 Walter Francis Bishop" 7 6.9914285086484e-07
+"521" "School - PS 169 Sunset Park" 7 6.9914285086484e-07
+"522" "School - PS 17 Henry D Woodworth" 7 6.9914285086484e-07
+"523" "School - PS 185 Walter Kassenbrock" 7 6.9914285086484e-07
+"524" "School - PS 2 Meyer London" 7 6.9914285086484e-07
+"525" "School - PS 213 New Lots" 7 6.9914285086484e-07
+"526" "School - PS 215 Lucretia Mott" 7 6.9914285086484e-07
+"527" "School - PS 216 Arturo Toscanini" 7 6.9914285086484e-07
+"528" "School - PS 233 Langston Hughes" 7 6.9914285086484e-07
+"529" "School - PS 235 Lenox School" 7 6.9914285086484e-07
+"530" "School - PS 239" 7 6.9914285086484e-07
+"531" "School - PS 256 Benjamin Banneker" 7 6.9914285086484e-07
+"532" "School - PS 284 Lew Wallace" 7 6.9914285086484e-07
+"533" "School - PS 29 John M Harrigan" 7 6.9914285086484e-07
+"534" "School - PS 32 State Street" 7 6.9914285086484e-07
+"535" "School - PS 380 John Wayne Elementary" 7 6.9914285086484e-07
+"536" "School - PS 4 Duke Ellington" 7 6.9914285086484e-07
+"537" "School - PS 41 New Dorp" 7 6.9914285086484e-07
+"538" "School - PS 46 Edgar Allan Poe" 7 6.9914285086484e-07
+"539" "School - PS 506 The School of Journalism and Technology" 7 6.9914285086484e-07
+"540" "School - PS 51 Elias Howe" 7 6.9914285086484e-07
+"541" "School - PS 60 Woodhaven" 7 6.9914285086484e-07
+"542" "School - PS 67 Charles A Dorsey" 7 6.9914285086484e-07
+"543" "School - PS 69 Vincent D Grippo School" 7 6.9914285086484e-07
+"544" "School - PS 70 Max Schoenfeld" 7 6.9914285086484e-07
+"545" "School - PS 73 Bronx" 7 6.9914285086484e-07
+"546" "School - PS 76 The Bennington School" 7 6.9914285086484e-07
+"547" "School - PS 770 New American Academy" 7 6.9914285086484e-07
+"548" "School - PS 81 Robert J Christen" 7 6.9914285086484e-07
+"549" "School - PS 91 Richard Arkwright" 7 6.9914285086484e-07
+"550" "School - PS 96 Richard Rodgers" 7 6.9914285086484e-07
+"551" "School - PS 97 Bronx" 7 6.9914285086484e-07
+"552" "School - PS-MS 147 Ronald Mcnair" 7 6.9914285086484e-07
+"553" "School - School of Performing Arts" 7 6.9914285086484e-07
+"554" "School - School of Science and Technology" 7 6.9914285086484e-07
+"555" "School - Teachers College Community School" 7 6.9914285086484e-07
+"556" "School - The Bellaire School" 7 6.9914285086484e-07
+"557" "School - The Mott Hall School" 7 6.9914285086484e-07
+"558" "School - Urban Assembly School for Criminal Justice" 7 6.9914285086484e-07
+"559" "DOF" 6 5.99265300741291e-07
+"560" "IA" 6 5.99265300741291e-07
+"561" "NYCEM" 6 5.99265300741291e-07
+"562" "OCHIA" 6 5.99265300741291e-07
+"563" "School - Academy for Health Careers" 6 5.99265300741291e-07
+"564" "School - Acorn Community High School" 6 5.99265300741291e-07
+"565" "School - ALC John Jay" 6 5.99265300741291e-07
+"566" "School - Bronx Academy of Health Careers" 6 5.99265300741291e-07
+"567" "School - Bronx Health Sciences High School" 6 5.99265300741291e-07
+"568" "School - Bronx High School for Medical Science" 6 5.99265300741291e-07
+"569" "School - Brooklyn School for Music and Theatre" 6 5.99265300741291e-07
+"570" "School - Conselyea Preparatory School" 6 5.99265300741291e-07
+"571" "School - Edward R Murrow High School" 6 5.99265300741291e-07
+"572" "School - ESMT - IS 190" 6 5.99265300741291e-07
+"573" "School - Essence School" 6 5.99265300741291e-07
+"574" "School - George Washington YABC" 6 5.99265300741291e-07
+"575" "School - George Westinghouse Career and Technical Education High School" 6 5.99265300741291e-07
+"576" "School - High School for Leadership and Public Service" 6 5.99265300741291e-07
+"577" "School - IS 195 Roberto Clemente" 6 5.99265300741291e-07
+"578" "School - IS 285 Meyer Levin" 6 5.99265300741291e-07
+"579" "School - IS 98 Bay Academy" 6 5.99265300741291e-07
+"580" "School - Jamaica High School" 6 5.99265300741291e-07
+"581" "School - JHS 54 Booker T Washington" 6 5.99265300741291e-07
+"582" "School - Maspeth High School" 6 5.99265300741291e-07
+"583" "School - MS 113 Ronald Edmonds Learning Center" 6 5.99265300741291e-07
+"584" "School - MS 267 Math, Science and Technology" 6 5.99265300741291e-07
+"585" "School - Pace High School" 6 5.99265300741291e-07
+"586" "School - Paul Robeson High School" 6 5.99265300741291e-07
+"587" "School - Pioneer Academy" 6 5.99265300741291e-07
+"588" "School - PS 1 The Bergen" 6 5.99265300741291e-07
+"589" "School - PS 102 The Bayview" 6 5.99265300741291e-07
+"590" "School - PS 105 The Bay School" 6 5.99265300741291e-07
+"591" "School - PS 105 The Blythebourne" 6 5.99265300741291e-07
+"592" "School - PS 108 Sal Abbracciamento" 6 5.99265300741291e-07
+"593" "School - PS 110 Florence Nightingale" 6 5.99265300741291e-07
+"594" "School - PS 112 Bronxwood" 6 5.99265300741291e-07
+"595" "School - PS 112 Lefferts Park" 6 5.99265300741291e-07
+"596" "School - PS 121 Throop" 6 5.99265300741291e-07
+"597" "School - PS 13 Roberto Clemente" 6 5.99265300741291e-07
+"598" "School - PS 130 The Parkside" 6 5.99265300741291e-07
+"599" "School - PS 131 Abigail Adams" 6 5.99265300741291e-07
+"600" "School - PS 132 The Conselyea School" 6 5.99265300741291e-07
+"601" "School - PS 138 Brooklyn" 6 5.99265300741291e-07
+"602" "School - PS 14 Fairview" 6 5.99265300741291e-07
+"603" "School - PS 140 Nathan Straus" 6 5.99265300741291e-07
+"604" "School - PS 151 Mary D Carter" 6 5.99265300741291e-07
+"605" "School - PS 153 Adam Clayton Powell" 6 5.99265300741291e-07
+"606" "School - PS 153 Helen Keller" 6 5.99265300741291e-07
+"607" "School - PS 158 Warwick" 6 5.99265300741291e-07
+"608" "School - PS 161 Ponce De Leon" 6 5.99265300741291e-07
+"609" "School - PS 18 John G Whittier" 6 5.99265300741291e-07
+"610" "School - PS 180 Hugo Newman" 6 5.99265300741291e-07
+"611" "School - PS 183 Dr Richard R Green" 6 5.99265300741291e-07
+"612" "School - PS 188 Michael E Berdy" 6 5.99265300741291e-07
+"613" "School - PS 199 Jessie Isador Straus" 6 5.99265300741291e-07
+"614" "School - PS 202 Ernest S Jenkyns" 6 5.99265300741291e-07
+"615" "School - PS 214 Michael Friedsam" 6 5.99265300741291e-07
+"616" "School - PS 219 Kennedy-King" 6 5.99265300741291e-07
+"617" "School - PS 22" 6 5.99265300741291e-07
+"618" "School - PS 226 - Bronx" 6 5.99265300741291e-07
+"619" "School - PS 230 Doris L Cohen" 6 5.99265300741291e-07
+"620" "School - PS 251 Paerdegat" 6 5.99265300741291e-07
+"621" "School - PS 254 Dag Hammarskjold" 6 5.99265300741291e-07
+"622" "School - PS 269 Nostrand" 6 5.99265300741291e-07
+"623" "School - PS 298 Dr Betty Shabazz" 6 5.99265300741291e-07
+"624" "School - PS 3 Charrette School" 6 5.99265300741291e-07
+"625" "School - PS 306" 6 5.99265300741291e-07
+"626" "School - PS 306 Ethan Allen" 6 5.99265300741291e-07
+"627" "School - PS 308 Clara Cardwell" 6 5.99265300741291e-07
+"628" "School - PS 35 Nathaniel Woodhull" 6 5.99265300741291e-07
+"629" "School - PS 37" 6 5.99265300741291e-07
+"630" "School - PS 373 - Brooklyn Transition Center" 6 5.99265300741291e-07
+"631" "School - PS 375 Jackie Robinson School" 6 5.99265300741291e-07
+"632" "School - PS 38 Roberto Clemente" 6 5.99265300741291e-07
+"633" "School - PS 398 Walter Weaver" 6 5.99265300741291e-07
+"634" "School - PS 40 George W Carver" 6 5.99265300741291e-07
+"635" "School - PS 47 Chris Galas" 6 5.99265300741291e-07
+"636" "School - PS 48 Joseph R Drake" 6 5.99265300741291e-07
+"637" "School - PS 503 The School of Discovery" 6 5.99265300741291e-07
+"638" "School - PS 53 Bay Terrace" 6 5.99265300741291e-07
+"639" "School - PS 59 William Floyd" 6 5.99265300741291e-07
+"640" "School - PS 64 Robert Simon" 6 5.99265300741291e-07
+"641" "School - PS 72" 6 5.99265300741291e-07
+"642" "School - PS 73 Thomas S Boyland" 6 5.99265300741291e-07
+"643" "School - PS 8 Luis Belliard" 6 5.99265300741291e-07
+"644" "School - PS 84 Jose De Diego" 6 5.99265300741291e-07
+"645" "School - PS 84 Steinway" 6 5.99265300741291e-07
+"646" "School - PS 87 Middle Village" 6 5.99265300741291e-07
+"647" "School - PS 94 The Henry Longfellow" 6 5.99265300741291e-07
+"648" "School - PS 95 The Gravesend" 6 5.99265300741291e-07
+"649" "School - PS 96 Joseph Lanzetta" 6 5.99265300741291e-07
+"650" "School - School for International Studies" 6 5.99265300741291e-07
+"651" "School - Sheepshead Bay High School" 6 5.99265300741291e-07
+"652" "School - South Bronx Preparatory: A College Board School" 6 5.99265300741291e-07
+"653" "School - Space Shuttle Columbia School" 6 5.99265300741291e-07
+"654" "School - The 47 American Sign Language and English Lower School" 6 5.99265300741291e-07
+"655" "School - The Angelo Patri Middle School" 6 5.99265300741291e-07
+"656" "School - Theatre Arts Production Company School" 6 5.99265300741291e-07
+"657" "OAE" 5 4.99387750617743e-07
+"658" "School - Academy for College Preparation and Career Exploration: A College Board School" 5 4.99387750617743e-07
+"659" "School - Academy for Language and Technology" 5 4.99387750617743e-07
+"660" "School - Academy of American Studies" 5 4.99387750617743e-07
+"661" "School - Aviation Career and Technical Education High School" 5 4.99387750617743e-07
+"662" "School - Benjamin Banneker Academy" 5 4.99387750617743e-07
+"663" "School - Bronx Writing Academy" 5 4.99387750617743e-07
+"664" "School - Brooklyn Community High School of Communication, Arts and Media" 5 4.99387750617743e-07
+"665" "School - Columbia Secondary School" 5 4.99387750617743e-07
+"666" "School - East-West School of International Studies" 5 4.99387750617743e-07
+"667" "School - High School of Applied Communication" 5 4.99387750617743e-07
+"668" "School - High School of Telecommunication Arts and Technology" 5 4.99387750617743e-07
+"669" "School - International High School at Prospect Heights" 5 4.99387750617743e-07
+"670" "School - IS 145 Joseph Pulitzer" 5 4.99387750617743e-07
+"671" "School - IS 171 Abraham Lincoln" 5 4.99387750617743e-07
+"672" "School - IS 192 The Linden" 5 4.99387750617743e-07
+"673" "School - IS 27 Anning S Prall" 5 4.99387750617743e-07
+"674" "School - IS 340" 5 4.99387750617743e-07
+"675" "School - JHS 194 William Carr" 5 4.99387750617743e-07
+"676" "School - JHS 22 Jordan L Mott" 5 4.99387750617743e-07
+"677" "School - JHS 259 William Mckinley" 5 4.99387750617743e-07
+"678" "School - JHS 265 Susan S McKinney" 5 4.99387750617743e-07
+"679" "School - JHS 278 Marine Park" 5 4.99387750617743e-07
+"680" "School - JHS 318 Eugenio Maria De Hostos" 5 4.99387750617743e-07
+"681" "School - Landmark High School" 5 4.99387750617743e-07
+"682" "School - Martin Van Buren High School" 5 4.99387750617743e-07
+"683" "School - Monroe Academy for Business-Law" 5 4.99387750617743e-07
+"684" "School - New School 1 at PS 60" 5 4.99387750617743e-07
+"685" "School - NYC Lab School for Collaborative Studies" 5 4.99387750617743e-07
+"686" "School - Park Slope Collegiate" 5 4.99387750617743e-07
+"687" "School - Pathways College Preparatory School: A College Board School" 5 4.99387750617743e-07
+"688" "School - PS 100 Glen Morris" 5 4.99387750617743e-07
+"689" "School - PS 101 The Verrazano" 5 4.99387750617743e-07
+"690" "School - PS 102 Jacques Cartier" 5 4.99387750617743e-07
+"691" "School - PS 106 Parkchester" 5 4.99387750617743e-07
+"692" "School - PS 107 Thomas A Dooley" 5 4.99387750617743e-07
+"693" "School - PS 111 Jacob Blackwell" 5 4.99387750617743e-07
+"694" "School - PS 116 Elizabeth L Farrell" 5 4.99387750617743e-07
+"695" "School - PS 123 Suydam" 5 4.99387750617743e-07
+"696" "School - PS 124 Silas B Dutcher" 5 4.99387750617743e-07
+"697" "School - PS 128 Bensonhurst" 5 4.99387750617743e-07
+"698" "School - PS 129 John H Finley" 5 4.99387750617743e-07
+"699" "School - PS 129 Patricia Larkin" 5 4.99387750617743e-07
+"700" "School - PS 130" 5 4.99387750617743e-07
+"701" "School - PS 14 Senator John Calandra" 5 4.99387750617743e-07
+"702" "School - PS 144 Col Jeromus Remsen" 5 4.99387750617743e-07
+"703" "School - PS 150 Charles James Fox" 5 4.99387750617743e-07
+"704" "School - PS 156 Laurelton" 5 4.99387750617743e-07
+"705" "School - PS 16 John J Driscoll" 5 4.99387750617743e-07
+"706" "School - PS 162 John Golden" 5 4.99387750617743e-07
+"707" "School - PS 163 Arthur A Schomburg" 5 4.99387750617743e-07
+"708" "School - PS 167 The Parkway" 5 4.99387750617743e-07
+"709" "School - PS 170" 5 4.99387750617743e-07
+"710" "School - PS 19 Marino Jeantet" 5 4.99387750617743e-07
+"711" "School - PS 195 Manhattan Beach" 5 4.99387750617743e-07
+"712" "School - PS 195 William Haberle" 5 4.99387750617743e-07
+"713" "School - PS 196 Ten Eyck" 5 4.99387750617743e-07
+"714" "School - PS 20 John Bowne" 5 4.99387750617743e-07
+"715" "School - PS 205 Fiorello Laguardia" 5 4.99387750617743e-07
+"716" "School - PS 206 Jose Celso Barbosa" 5 4.99387750617743e-07
+"717" "School - PS 21 Philip H Sheridan" 5 4.99387750617743e-07
+"718" "School - PS 221 Toussaint L'Ouverture" 5 4.99387750617743e-07
+"719" "School - PS 23 Richmondtown" 5 4.99387750617743e-07
+"720" "School - PS 246 Poe Center" 5 4.99387750617743e-07
+"721" "School - PS 25 Eubie Blake School" 5 4.99387750617743e-07
+"722" "School - PS 26 Jesse Owens" 5 4.99387750617743e-07
+"723" "School - PS 268 Emma Lazarus" 5 4.99387750617743e-07
+"724" "School - PS 270 Johann Dekalb" 5 4.99387750617743e-07
+"725" "School - PS 274 Kosciusko" 5 4.99387750617743e-07
+"726" "School - PS 279 Herman Schreiber" 5 4.99387750617743e-07
+"727" "School - PS 291" 5 4.99387750617743e-07
+"728" "School - PS 30 Hernandez-Hughes" 5 4.99387750617743e-07
+"729" "School - PS 30 Wilton" 5 4.99387750617743e-07
+"730" "School - PS 328 Phyllis Wheatley" 5 4.99387750617743e-07
+"731" "School - PS 33 Chelsea Prep" 5 4.99387750617743e-07
+"732" "School - PS 33 Edward M Funk" 5 4.99387750617743e-07
+"733" "School - PS 34 Oliver H Perry" 5 4.99387750617743e-07
+"734" "School - PS 369 Coy L Cox School" 5 4.99387750617743e-07
+"735" "School - PS 40 Samuel Huntington" 5 4.99387750617743e-07
+"736" "School - PS 46 Arthur Tappan" 5 4.99387750617743e-07
+"737" "School - PS 47 John Randolph" 5 4.99387750617743e-07
+"738" "School - PS 48 P O Michael J Buczek" 5 4.99387750617743e-07
+"739" "School - PS 49 Willis Avenue" 5 4.99387750617743e-07
+"740" "School - PS 64 Pura Belpre" 5 4.99387750617743e-07
+"741" "School - PS 69 Jackson Heights" 5 4.99387750617743e-07
+"742" "School - PS 7 Louis F Simeone" 5 4.99387750617743e-07
+"743" "School - PS 77" 5 4.99387750617743e-07
+"744" "School - PS 90 Edna Cohen School" 5 4.99387750617743e-07
+"745" "School - PS 93 William H Prescott" 5 4.99387750617743e-07
+"746" "School - PS 94 David D Porter" 5 4.99387750617743e-07
+"747" "School - PS 95 Eastwood" 5 4.99387750617743e-07
+"748" "School - PS 99 Kew Gardens" 5 4.99387750617743e-07
+"749" "School - PS MS 194" 5 4.99387750617743e-07
+"750" "School - PS-IS 155 Nicholas Herkimer" 5 4.99387750617743e-07
+"751" "School - PS-IS 218 Rafael Hernandez Dual Language Magnet School" 5 4.99387750617743e-07
+"752" "School - Rachel Carson High School for Coastal Studies" 5 4.99387750617743e-07
+"753" "School - Stuyvesant High School" 5 4.99387750617743e-07
+"754" "School - The Bronxwood Preparatory Academy" 5 4.99387750617743e-07
+"755" "School - The Gordon Parks School" 5 4.99387750617743e-07
+"756" "School - The Lexington Academy" 5 4.99387750617743e-07
+"757" "School - The Urban Assembly School of Music and Art" 5 4.99387750617743e-07
+"758" "School - Theodore Roosevelt Evening High School - Mondays and Wednesdays" 5 4.99387750617743e-07
+"759" "School - Urban Assembly Institute of Math and Science for Young Women" 5 4.99387750617743e-07
+"760" "ACS Commissioner - EC" 4 3.99510200494194e-07
+"761" "Correspondence Router for MOO" 4 3.99510200494194e-07
+"762" "CWI" 4 3.99510200494194e-07
+"763" "EMTF" 4 3.99510200494194e-07
+"764" "OPA" 4 3.99510200494194e-07
+"765" "SBS" 4 3.99510200494194e-07
+"766" "School - Academy for Scholarship and Entrepreneurship" 4 3.99510200494194e-07
+"767" "School - Academy for Social Action: A College Board School" 4 3.99510200494194e-07
+"768" "School - ACE Academy for Scholars at the Geraldine Ferraro Campus" 4 3.99510200494194e-07
+"769" "School - Automotive High School" 4 3.99510200494194e-07
+"770" "School - Bedford Academy High School" 4 3.99510200494194e-07
+"771" "School - Bedford Stuyvesant New Beginnings Charter School" 4 3.99510200494194e-07
+"772" "School - Bronx Early College Academy for Teaching and Learning" 4 3.99510200494194e-07
+"773" "School - Bronx School of Law and Finance" 4 3.99510200494194e-07
+"774" "School - Brooklyn Dreams Charter School" 4 3.99510200494194e-07
+"775" "School - Bushwick Ascend Charter School" 4 3.99510200494194e-07
+"776" "School - Bushwick School for Social Justice" 4 3.99510200494194e-07
+"777" "School - Chelsea Career and Technical Education High School" 4 3.99510200494194e-07
+"778" "School - Childrens Workshop at PS 361" 4 3.99510200494194e-07
+"779" "School - Cynthia Jenkins School" 4 3.99510200494194e-07
+"780" "School - East Harlem Scholars Academy Charter School" 4 3.99510200494194e-07
+"781" "School - El Puente Academy for Peace and Justice" 4 3.99510200494194e-07
+"782" "School - Ella Baker School" 4 3.99510200494194e-07
+"783" "School - Frederick Douglass Academy IV Secondary School" 4 3.99510200494194e-07
+"784" "School - Freedom Academy High School" 4 3.99510200494194e-07
+"785" "School - Gramercy Arts High School" 4 3.99510200494194e-07
+"786" "School - Gregorio Luperon High School for Science and Mathematics" 4 3.99510200494194e-07
+"787" "School - Health Professions and Human Services" 4 3.99510200494194e-07
+"788" "School - Henry Street School for International Studies" 4 3.99510200494194e-07
+"789" "School - High School for Medical Professions" 4 3.99510200494194e-07
+"790" "School - IS 117 Joseph H Wade" 4 3.99510200494194e-07
+"791" "School - IS 204 Oliver W Holmes" 4 3.99510200494194e-07
+"792" "School - IS 219 New Venture School" 4 3.99510200494194e-07
+"793" "School - IS 229 Roland Patterson" 4 3.99510200494194e-07
+"794" "School - IS 281 Joseph B Cavallaro" 4 3.99510200494194e-07
+"795" "School - IS 77" 4 3.99510200494194e-07
+"796" "School - IS M286 Renaissance Leadership Academy" 4 3.99510200494194e-07
+"797" "School - James Weldon Johnson" 4 3.99510200494194e-07
+"798" "School - JHS 125 Henry Hudson" 4 3.99510200494194e-07
+"799" "School - JHS 131 Albert Einstein" 4 3.99510200494194e-07
+"800" "School - JHS 220 John J Pershing" 4 3.99510200494194e-07
+"801" "School - JHS 226 Virgil I Grissom" 4 3.99510200494194e-07
+"802" "School - JHS 227 Edward B Shallow" 4 3.99510200494194e-07
+"803" "School - JHS 292 Margaret S Douglas" 4 3.99510200494194e-07
+"804" "School - JHS 52 Inwood" 4 3.99510200494194e-07
+"805" "School - Kappa" 4 3.99510200494194e-07
+"806" "School - KIPP STAR College Prep Charter School" 4 3.99510200494194e-07
+"807" "School - Manhattan School for Career Development" 4 3.99510200494194e-07
+"808" "School - Morris Academy for Collaborative Studies" 4 3.99510200494194e-07
+"809" "School - Mott Hall High School" 4 3.99510200494194e-07
+"810" "School - Mott Hall IV" 4 3.99510200494194e-07
+"811" "School - MS 172 Irwin Altman" 4 3.99510200494194e-07
+"812" "School - MS 246 Walt Whitman" 4 3.99510200494194e-07
+"813" "School - MS K266 - Park Place Community Middle School" 4 3.99510200494194e-07
+"814" "School - Newtown High School" 4 3.99510200494194e-07
+"815" "School - Pelham Preparatory Academy" 4 3.99510200494194e-07
+"816" "School - PS - MS 11X498 - Van Nest Academy" 4 3.99510200494194e-07
+"817" "School - PS 107 John W Kimball" 4 3.99510200494194e-07
+"818" "School - PS 108 Assemblyman Angelo Del Toro Educational Complex" 4 3.99510200494194e-07
+"819" "School - PS 109" 4 3.99510200494194e-07
+"820" "School - PS 112 Jose Celso Barbosa" 4 3.99510200494194e-07
+"821" "School - PS 115 Daniel Mucatel School" 4 3.99510200494194e-07
+"822" "School - PS 119 Amersfort" 4 3.99510200494194e-07
+"823" "School - PS 121 Nelson A Rockefeller" 4 3.99510200494194e-07
+"824" "School - PS 128 Audubon" 4 3.99510200494194e-07
+"825" "School - PS 13 M L Lindemeyer" 4 3.99510200494194e-07
+"826" "School - PS 138" 4 3.99510200494194e-07
+"827" "School - PS 146" 4 3.99510200494194e-07
+"828" "School - PS 152 Gwendoline N Alleyne School" 4 3.99510200494194e-07
+"829" "School - PS 153 Homecrest" 4 3.99510200494194e-07
+"830" "School - PS 164 Queens Valley" 4 3.99510200494194e-07
+"831" "School - PS 168" 4 3.99510200494194e-07
+"832" "School - PS 169 Bay Terrace" 4 3.99510200494194e-07
+"833" "School - PS 176 Ovington" 4 3.99510200494194e-07
+"834" "School - PS 177" 4 3.99510200494194e-07
+"835" "School - PS 177 The Marlboro" 4 3.99510200494194e-07
+"836" "School - PS 18 John Peter Zenger" 4 3.99510200494194e-07
+"837" "School - PS 185 The Early Childhood Discovery and Design Magnet School" 4 3.99510200494194e-07
+"838" "School - PS 19 Roberto Clemente" 4 3.99510200494194e-07
+"839" "School - PS 192 - The Magnet School for Math and Science Inquiry" 4 3.99510200494194e-07
+"840" "School - PS 192 Jacob H Schiff" 4 3.99510200494194e-07
+"841" "School - PS 193 Gil Hodges" 4 3.99510200494194e-07
+"842" "School - PS 194 Raoul Wallenberg" 4 3.99510200494194e-07
+"843" "School - PS 195" 4 3.99510200494194e-07
+"844" "School - PS 203 The School for Future Leaders" 4 3.99510200494194e-07
+"845" "School - PS 204 Vince Lombardi" 4 3.99510200494194e-07
+"846" "School - PS 207" 4 3.99510200494194e-07
+"847" "School - PS 21 Crispus Attucks" 4 3.99510200494194e-07
+"848" "School - PS 223 Lyndon B Johnson" 4 3.99510200494194e-07
+"849" "School - PS 232 Lindenwood" 4 3.99510200494194e-07
+"850" "School - PS 24" 4 3.99510200494194e-07
+"851" "School - PS 272 Curtis Estabrook" 4 3.99510200494194e-07
+"852" "School - PS 276 Louis Marshall" 4 3.99510200494194e-07
+"853" "School - PS 29 Bardwell" 4 3.99510200494194e-07
+"854" "School - PS 290 Manhattan New School" 4 3.99510200494194e-07
+"855" "School - PS 299 Thomas Warren Field" 4 3.99510200494194e-07
+"856" "School - PS 316 Elijah Stroud" 4 3.99510200494194e-07
+"857" "School - PS 371 - Lillian L Rashkis" 4 3.99510200494194e-07
+"858" "School - PS 41 Greenwich Village" 4 3.99510200494194e-07
+"859" "School - PS 43 Jonas Bronck" 4 3.99510200494194e-07
+"860" "School - PS 48 Mapleton" 4 3.99510200494194e-07
+"861" "School - PS 48 PO Michael J Buczek" 4 3.99510200494194e-07
+"862" "School - PS 50 Clara Barton" 4 3.99510200494194e-07
+"863" "School - PS 54 Hillside" 4 3.99510200494194e-07
+"864" "School - PS 55 Maure" 4 3.99510200494194e-07
+"865" "School - PS 56 Norwood Heights" 4 3.99510200494194e-07
+"866" "School - PS 58" 4 3.99510200494194e-07
+"867" "School - PS 59 Beekman Hill International" 4 3.99510200494194e-07
+"868" "School - PS 66 School of Higher Expectations" 4 3.99510200494194e-07
+"869" "School - PS 67 Mohegan School" 4 3.99510200494194e-07
+"870" "School - PS 68 Cambridge" 4 3.99510200494194e-07
+"871" "School - PS 748 Brooklyn School for Global Scholars" 4 3.99510200494194e-07
+"872" "School - PS 77 Lower Lab School" 4 3.99510200494194e-07
+"873" "School - PS 8 Shirlee Solomon" 4 3.99510200494194e-07
+"874" "School - PS 81 Jean Paul Richter" 4 3.99510200494194e-07
+"875" "School - PS 89 Elmhurst" 4 3.99510200494194e-07
+"876" "School - PS 97 Forest Park" 4 3.99510200494194e-07
+"877" "School - PS 97 The Highlawn" 4 3.99510200494194e-07
+"878" "School - PS 98 Shorac Kappock" 4 3.99510200494194e-07
+"879" "School - PS 98 The Douglaston School" 4 3.99510200494194e-07
+"880" "School - PS 99 Isaac Asimov" 4 3.99510200494194e-07
+"881" "School - PS K315" 4 3.99510200494194e-07
+"882" "School - PS-IS 178 Holliswood" 4 3.99510200494194e-07
+"883" "School - PS-IS 217 Roosevelt Island" 4 3.99510200494194e-07
+"884" "School - PS-MS 200 - The Pomonok School and Star Academy" 4 3.99510200494194e-07
+"885" "School - Satellite Three" 4 3.99510200494194e-07
+"886" "School - Sheridan Academy for Young Leaders" 4 3.99510200494194e-07
+"887" "School - Staten Island Technical High School" 4 3.99510200494194e-07
+"888" "School - The New American Academy at Roberto Clemente State Park" 4 3.99510200494194e-07
+"889" "School - The STAR Academy PS63" 4 3.99510200494194e-07
+"890" "School - The Urban Assembly School for Green Careers" 4 3.99510200494194e-07
+"891" "School - The Urban Assembly School for Law and Justice" 4 3.99510200494194e-07
+"892" "School - Urban Assembly School of Design and Construction" 4 3.99510200494194e-07
+"893" "School - Washington Heights Academy" 4 3.99510200494194e-07
+"894" "School - WEB Dubois Academic High School" 4 3.99510200494194e-07
+"895" "School - Williamsburg High School for Architecture and Design" 4 3.99510200494194e-07
+"896" "VAC" 4 3.99510200494194e-07
+"897" "DesignCom" 3 2.99632650370646e-07
+"898" "DHS" 3 2.99632650370646e-07
+"899" "DV" 3 2.99632650370646e-07
+"900" "NYCERS" 3 2.99632650370646e-07
+"901" "School - Access GED - East at South Shore High School" 3 2.99632650370646e-07
+"902" "School - All City Leadership Secondary School" 3 2.99632650370646e-07
+"903" "School - Archimedes Academy for Math, Science, and Technology Applications" 3 2.99632650370646e-07
+"904" "School - Bayard Rustin Educational Complex" 3 2.99632650370646e-07
+"905" "School - Beach Channel High School" 3 2.99632650370646e-07
+"906" "School - Bronx Career and College Preparatory High School" 3 2.99632650370646e-07
+"907" "School - Bronx Dance Academy School" 3 2.99632650370646e-07
+"908" "School - Bronx Regional High School" 3 2.99632650370646e-07
+"909" "School - Bronx School for Law, Government, and Justice" 3 2.99632650370646e-07
+"910" "School - Bronx Theatre High School" 3 2.99632650370646e-07
+"911" "School - Brooklyn Collegiate: A College Board School" 3 2.99632650370646e-07
+"912" "School - Brooklyn Excelsior Charter" 3 2.99632650370646e-07
+"913" "School - Canarsie Ascend Charter School" 3 2.99632650370646e-07
+"914" "School - Catherine and Count Basie Middle School 72" 3 2.99632650370646e-07
+"915" "School - Collaborative Arts Middle School" 3 2.99632650370646e-07
+"916" "School - Community Action School - MS 258" 3 2.99632650370646e-07
+"917" "School - Creston Academy" 3 2.99632650370646e-07
+"918" "School - East Bronx Academy for the Future" 3 2.99632650370646e-07
+"919" "School - East New York Elementary School of Excellence" 3 2.99632650370646e-07
+"920" "School - Edward A Reynolds West Side High School" 3 2.99632650370646e-07
+"921" "School - Fairmont Neighborhood School" 3 2.99632650370646e-07
+"922" "School - Foundations Academy" 3 2.99632650370646e-07
+"923" "School - Goldie Maple Academy" 3 2.99632650370646e-07
+"924" "School - Green School: An Academy for Environmental Careers" 3 2.99632650370646e-07
+"925" "School - High School for Mathematics, Science and Engineering at City College" 3 2.99632650370646e-07
+"926" "School - High School for Service and Learning at Erasmus" 3 2.99632650370646e-07
+"927" "School - High School of Hospitality Management" 3 2.99632650370646e-07
+"928" "School - Independence High School" 3 2.99632650370646e-07
+"929" "School - IS 059 Springfield Gardens" 3 2.99632650370646e-07
+"930" "School - IS 227 Louis Armstrong" 3 2.99632650370646e-07
+"931" "School - IS 228 David A Boody" 3 2.99632650370646e-07
+"932" "School - IS 61 Leonardo Da Vinci" 3 2.99632650370646e-07
+"933" "School - It Takes a Village Academy" 3 2.99632650370646e-07
+"934" "School - JHS 142 John Philip Sousa" 3 2.99632650370646e-07
+"935" "School - JHS 157 Stephen A Halsey" 3 2.99632650370646e-07
+"936" "School - JHS 162 Lola Rodriguez De Tio" 3 2.99632650370646e-07
+"937" "School - JHS 167 Robert F Wagner" 3 2.99632650370646e-07
+"938" "School - JHS 185 Edward Bleeker" 3 2.99632650370646e-07
+"939" "School - JHS 210 Elizabeth Blackwell" 3 2.99632650370646e-07
+"940" "School - JHS 67 Louis Pasteur" 3 2.99632650370646e-07
+"941" "School - JHS 72 Catherine and Count Basie" 3 2.99632650370646e-07
+"942" "School - John Ericsson Middle School 126" 3 2.99632650370646e-07
+"943" "School - Leadership Prep Bedford Stuyvesant Charter School" 3 2.99632650370646e-07
+"944" "School - Legacy School for Integrated Studies" 3 2.99632650370646e-07
+"945" "School - Louis D Brandeis High School" 3 2.99632650370646e-07
+"946" "School - Lower Manhattan Arts Academy" 3 2.99632650370646e-07
+"947" "School - Magnet School for Science and Technology" 3 2.99632650370646e-07
+"948" "School - Manhattan Bridges High School" 3 2.99632650370646e-07
+"949" "School - Manhattan Center for Science and Mathematics" 3 2.99632650370646e-07
+"950" "School - Middle School for Art and Philosophy" 3 2.99632650370646e-07
+"951" "School - Mott Hall II" 3 2.99632650370646e-07
+"952" "School - MS 101 Edward R Byrne" 3 2.99632650370646e-07
+"953" "School - MS 126 John Ericsson" 3 2.99632650370646e-07
+"954" "School - MS 301 Paul L Dunbar" 3 2.99632650370646e-07
+"955" "School - MS 302 Luisa Dessus Cruz" 3 2.99632650370646e-07
+"956" "School - MS 582" 3 2.99632650370646e-07
+"957" "School - New Explorations into Science, Technology and Math High School" 3 2.99632650370646e-07
+"958" "School - New Heights Academy Charter School" 3 2.99632650370646e-07
+"959" "School - New Hope Academy Charter School" 3 2.99632650370646e-07
+"960" "School - New Utrecht Evening High School - Mondays and Wednesdays" 3 2.99632650370646e-07
+"961" "School - New World Preparatory Charter School" 3 2.99632650370646e-07
+"962" "School - New York City Montessori Charter School" 3 2.99632650370646e-07
+"963" "School - NYC Museum School" 3 2.99632650370646e-07
+"964" "School - Performance Conservatory High School" 3 2.99632650370646e-07
+"965" "School - PS - IS 266" 3 2.99632650370646e-07
+"966" "School - PS 100 Isaac Clason" 3 2.99632650370646e-07
+"967" "School - PS 102 Bayview" 3 2.99632650370646e-07
+"968" "School - PS 107" 3 2.99632650370646e-07
+"969" "School - PS 11 Purvis J Behan" 3 2.99632650370646e-07
+"970" "School - PS 110 Theodore Schoenfeld" 3 2.99632650370646e-07
+"971" "School - PS 112 Dutch Kills" 3 2.99632650370646e-07
+"972" "School - PS 115 Alexander Humboldt" 3 2.99632650370646e-07
+"973" "School - PS 12 James B Colgate" 3 2.99632650370646e-07
+"974" "School - PS 12 Lewis and Clark School" 3 2.99632650370646e-07
+"975" "School - PS 120 Carlos Tapia" 3 2.99632650370646e-07
+"976" "School - PS 120 Queens" 3 2.99632650370646e-07
+"977" "School - PS 125 Ralph Bunche" 3 2.99632650370646e-07
+"978" "School - PS 132 Ralph Bunche" 3 2.99632650370646e-07
+"979" "School - PS 134 George F Bristow" 3 2.99632650370646e-07
+"980" "School - PS 135 Sheldon A Brookner" 3 2.99632650370646e-07
+"981" "School - PS 137 John L Bernstein" 3 2.99632650370646e-07
+"982" "School - PS 141" 3 2.99632650370646e-07
+"983" "School - PS 145 The Bloomingdale School" 3 2.99632650370646e-07
+"984" "School - PS 146 Ann M Short" 3 2.99632650370646e-07
+"985" "School - PS 149 Christa Mcauliffe" 3 2.99632650370646e-07
+"986" "School - PS 15 Roberto Clemente" 3 2.99632650370646e-07
+"987" "School - PS 156 Waverly" 3 2.99632650370646e-07
+"988" "School - PS 165 Ida Posner" 3 2.99632650370646e-07
+"989" "School - PS 173" 3 2.99632650370646e-07
+"990" "School - PS 173 Fresh Meadows" 3 2.99632650370646e-07
+"991" "School - PS 174 William Sidney Mount" 3 2.99632650370646e-07
+"992" "School - PS 18 Winchester" 3 2.99632650370646e-07
+"993" "School - PS 182 Samantha Smith" 3 2.99632650370646e-07
+"994" "School - PS 187 Hudson Cliffs" 3 2.99632650370646e-07
+"995" "School - PS 188" 3 2.99632650370646e-07
+"996" "School - PS 197 The Ocean School" 3 2.99632650370646e-07
+"997" "School - PS 199 Frederick Wachtel" 3 2.99632650370646e-07
+"998" "School - PS 199 Maurice A Fitzgerald" 3 2.99632650370646e-07
+"999" "School - PS 2 Alfred Zimberg" 3 2.99632650370646e-07
+"1000" "School - PS 208 Alain L Locke" 3 2.99632650370646e-07
+"1001" "School - PS 208 Elsa Ebeling" 3 2.99632650370646e-07
+"1002" "School - PS 209" 3 2.99632650370646e-07
+"1003" "School - PS 21 Edward Hart" 3 2.99632650370646e-07
+"1004" "School - PS 220 Edward Mandel" 3 2.99632650370646e-07
+"1005" "School - PS 226 - Manhattan" 3 2.99632650370646e-07
+"1006" "School - PS 234" 3 2.99632650370646e-07
+"1007" "School - PS 24 Andrew Jackson" 3 2.99632650370646e-07
+"1008" "School - PS 241 Emma L Johnston" 3 2.99632650370646e-07
+"1009" "School - PS 243 The Weeksville School" 3 2.99632650370646e-07
+"1010" "School - PS 243K The Weeksville School" 3 2.99632650370646e-07
+"1011" "School - PS 244 Richard R Green" 3 2.99632650370646e-07
+"1012" "School - PS 25 Bilingual School" 3 2.99632650370646e-07
+"1013" "School - PS 251 Queens" 3 2.99632650370646e-07
+"1014" "School - PS 255" 3 2.99632650370646e-07
+"1015" "School - PS 26 The Carteret School" 3 2.99632650370646e-07
+"1016" "School - PS 28 Mount Hope" 3 2.99632650370646e-07
+"1017" "School - PS 29 Queens" 3 2.99632650370646e-07
+"1018" "School - PS 295" 3 2.99632650370646e-07
+"1019" "School - PS 305 Dr Peter Ray" 3 2.99632650370646e-07
+"1020" "School - PS 31 Bayside" 3 2.99632650370646e-07
+"1021" "School - PS 310 Marble Hill" 3 2.99632650370646e-07
+"1022" "School - PS 312 Bergen Beach" 3 2.99632650370646e-07
+"1023" "School - PS 319" 3 2.99632650370646e-07
+"1024" "School - PS 327 Dr Rose B English" 3 2.99632650370646e-07
+"1025" "School - PS 332 Charles H Houston" 3 2.99632650370646e-07
+"1026" "School - PS 36 Unionport" 3 2.99632650370646e-07
+"1027" "School - PS 376" 3 2.99632650370646e-07
+"1028" "School - PS 40 Augustus Saint-Gaudens" 3 2.99632650370646e-07
+"1029" "School - PS 42 Claremont" 3 2.99632650370646e-07
+"1030" "School - PS 46 Alley Pond" 3 2.99632650370646e-07
+"1031" "School - PS 5 Huguenot" 3 2.99632650370646e-07
+"1032" "School - PS 51 Bronx New School" 3 2.99632650370646e-07
+"1033" "School - PS 52 Queens" 3 2.99632650370646e-07
+"1034" "School - PS 53" 3 2.99632650370646e-07
+"1035" "School - PS 53 Basheer Quisim" 3 2.99632650370646e-07
+"1036" "School - PS 55 Benjamin Franklin" 3 2.99632650370646e-07
+"1037" "School - PS 58 School of Heroes" 3 2.99632650370646e-07
+"1038" "School - PS 58 The Carroll" 3 2.99632650370646e-07
+"1039" "School - PS 59 The Community School of Technology" 3 2.99632650370646e-07
+"1040" "School - PS 6 Corporal Allan F Kivlehan School" 3 2.99632650370646e-07
+"1041" "School - PS 6 Lillie D Blake" 3 2.99632650370646e-07
+"1042" "School - PS 6 West Farms" 3 2.99632650370646e-07
+"1043" "School - PS 63 The Star Academy" 3 2.99632650370646e-07
+"1044" "School - PS 64 Joseph P Addabbo" 3 2.99632650370646e-07
+"1045" "School - PS 65 - The Little Red School House" 3 2.99632650370646e-07
+"1046" "School - PS 65 The Raymond York Elementary School" 3 2.99632650370646e-07
+"1047" "School - PS 69 Daniel D Tompkins" 3 2.99632650370646e-07
+"1048" "School - PS 72 Dr William Dorney" 3 2.99632650370646e-07
+"1049" "School - PS 721 Brooklyn Occupational Training Center" 3 2.99632650370646e-07
+"1050" "School - PS 74 Future Leaders Elementary School" 3 2.99632650370646e-07
+"1051" "School - PS 811 - Bronx" 3 2.99632650370646e-07
+"1052" "School - PS 82 Hammond" 3 2.99632650370646e-07
+"1053" "School - PS 85 Judge Charles Vallone" 3 2.99632650370646e-07
+"1054" "School - PS 9 Ryer Avenue Elementary School" 3 2.99632650370646e-07
+"1055" "School - PS 92 Bronx" 3 2.99632650370646e-07
+"1056" "School - PS 95 Sheila Mencher" 3 2.99632650370646e-07
+"1057" "School - PS Q222 Fire Fighter Christopher A Santora School" 3 2.99632650370646e-07
+"1058" "School - PS X012 Lewis and Clark School" 3 2.99632650370646e-07
+"1059" "School - PS-IS 104 The Fort Hamilton School" 3 2.99632650370646e-07
+"1060" "School - PS-IS 224" 3 2.99632650370646e-07
+"1061" "School - PS-IS 323" 3 2.99632650370646e-07
+"1062" "School - PS-IS 54" 3 2.99632650370646e-07
+"1063" "School - PS-IS 72 Annette P Goldman" 3 2.99632650370646e-07
+"1064" "School - PS-MS 29 Melrose School" 3 2.99632650370646e-07
+"1065" "School - PS-MS 31 The William Lloyd Garrison" 3 2.99632650370646e-07
+"1066" "School - Riverdale Kingsbridge Academy" 3 2.99632650370646e-07
+"1067" "School - Roads Charter School I" 3 2.99632650370646e-07
+"1068" "School - School for Democracy and Leadership" 3 2.99632650370646e-07
+"1069" "School - School for Global Leaders" 3 2.99632650370646e-07
+"1070" "School - School for Legal Studies" 3 2.99632650370646e-07
+"1071" "School - Spring Creek Community School" 3 2.99632650370646e-07
+"1072" "School - Stevenson YABC" 3 2.99632650370646e-07
+"1073" "School - Sunset Park High School" 3 2.99632650370646e-07
+"1074" "School - Talent Unlimited High School" 3 2.99632650370646e-07
+"1075" "School - The Academy of Talented Scholars" 3 2.99632650370646e-07
+"1076" "School - The Richard H Hungerford School" 3 2.99632650370646e-07
+"1077" "School - The Urban Assembly Institute for New Technologies" 3 2.99632650370646e-07
+"1078" "School - The Urban Assembly School for Applied Math and Science" 3 2.99632650370646e-07
+"1079" "School - The Windsor Terrace School" 3 2.99632650370646e-07
+"1080" "School - Townsend Harris High School" 3 2.99632650370646e-07
+"1081" "School - Transit Technology Career and Technical Education High School" 3 2.99632650370646e-07
+"1082" "School - Urban Assembly School for Careers in Sports" 3 2.99632650370646e-07
+"1083" "School - William E Grady Career and Technical Education High School" 3 2.99632650370646e-07
+"1084" "School - Williamsburg Preparatory School" 3 2.99632650370646e-07
+"1085" "School - York Early College Academy" 3 2.99632650370646e-07
+"1086" "School - Young Scholars' Academy for Discovery and Exploration" 3 2.99632650370646e-07
+"1087" "WF1" 3 2.99632650370646e-07
+"1088" "311 Administrative Supervisor" 2 1.99755100247097e-07
+"1089" "311 Case Management" 2 1.99755100247097e-07
+"1090" "CFC - Bronx" 2 1.99755100247097e-07
+"1091" "CFC - Queens East" 2 1.99755100247097e-07
+"1092" "DCP" 2 1.99755100247097e-07
+"1093" "DOE" 2 1.99755100247097e-07
+"1094" "EDC" 2 1.99755100247097e-07
+"1095" "LOFT" 2 1.99755100247097e-07
+"1096" "NYCService" 2 1.99755100247097e-07
+"1097" "School - 51 Avenue Academy - The Path To Academic Excellence" 2 1.99755100247097e-07
+"1098" "School - Achievement First Brownsville Charter School" 2 1.99755100247097e-07
+"1099" "School - Archimedes Academy for Math, Science and Technology Applications" 2 1.99755100247097e-07
+"1100" "School - Aspirations Diploma Plus High School" 2 1.99755100247097e-07
+"1101" "School - Beacon High School" 2 1.99755100247097e-07
+"1102" "School - Bronx Aerospace High School" 2 1.99755100247097e-07
+"1103" "School - Bronx Charter School for Children" 2 1.99755100247097e-07
+"1104" "School - Bronx High School for the Visual Arts" 2 1.99755100247097e-07
+"1105" "School - Bronx High School for Writing and Communication Arts" 2 1.99755100247097e-07
+"1106" "School - Bronx High School of Science" 2 1.99755100247097e-07
+"1107" "School - Bronx Lab School" 2 1.99755100247097e-07
+"1108" "School - Bronx Lighthouse Charter School" 2 1.99755100247097e-07
+"1109" "School - Bronx Preparatory Charter School" 2 1.99755100247097e-07
+"1110" "School - Brooklyn Academy of Science and the Environment" 2 1.99755100247097e-07
+"1111" "School - Brooklyn Brownstone School" 2 1.99755100247097e-07
+"1112" "School - Brooklyn Institute for Liberal Arts" 2 1.99755100247097e-07
+"1113" "School - Broome Street Academy Charter School" 2 1.99755100247097e-07
+"1114" "School - Cambria Heights Academy" 2 1.99755100247097e-07
+"1115" "School - Central Park East II" 2 1.99755100247097e-07
+"1116" "School - Comprehensive Model School Project MS 327" 2 1.99755100247097e-07
+"1117" "School - Concourse Village Elementary School" 2 1.99755100247097e-07
+"1118" "School - CSI High School for International Studies" 2 1.99755100247097e-07
+"1119" "School - Democracy Preparatory Charter School 2" 2 1.99755100247097e-07
+"1120" "School - Eagle Academy for Young Men" 2 1.99755100247097e-07
+"1121" "School - Eagle Academy for Young Men II" 2 1.99755100247097e-07
+"1122" "School - East Brooklyn Community High School" 2 1.99755100247097e-07
+"1123" "School - East Side Community School" 2 1.99755100247097e-07
+"1124" "School - Ebbets Field Middle School" 2 1.99755100247097e-07
+"1125" "School - Elementary School for Math, Science, and Technology" 2 1.99755100247097e-07
+"1126" "School - Elijah Stroud Middle School" 2 1.99755100247097e-07
+"1127" "School - Erasmus YABC" 2 1.99755100247097e-07
+"1128" "School - Esperanza Preparatory Academy" 2 1.99755100247097e-07
+"1129" "School - Essex Street Academy" 2 1.99755100247097e-07
+"1130" "School - Explore Charter School" 2 1.99755100247097e-07
+"1131" "School - Frank Sinatra School of the Arts High School" 2 1.99755100247097e-07
+"1132" "School - Frederick Douglass Academy II Secondary School" 2 1.99755100247097e-07
+"1133" "School - Frederick Douglass Academy VI High School" 2 1.99755100247097e-07
+"1134" "School - Future Leaders Institute Charter School" 2 1.99755100247097e-07
+"1135" "School - General D Chappie James Elementary School of Science" 2 1.99755100247097e-07
+"1136" "School - Global Enterprise High School" 2 1.99755100247097e-07
+"1137" "School - Grover Cleveland High School" 2 1.99755100247097e-07
+"1138" "School - Harbor Science and Arts Charter School" 2 1.99755100247097e-07
+"1139" "School - Harlem Children's Zone Promise Academy Charter School" 2 1.99755100247097e-07
+"1140" "School - Harlem Success Academy I Charter School" 2 1.99755100247097e-07
+"1141" "School - Health Opportunities High School" 2 1.99755100247097e-07
+"1142" "School - High School for Construction Trades, Engineering and Architecture" 2 1.99755100247097e-07
+"1143" "School - High School for Law and Public Service" 2 1.99755100247097e-07
+"1144" "School - High School for Youth and Community Development at Erasmus" 2 1.99755100247097e-07
+"1145" "School - In-Tech Academy MS-HS 368" 2 1.99755100247097e-07
+"1146" "School - Information Technology High School" 2 1.99755100247097e-07
+"1147" "School - Institute for Collaborative Education" 2 1.99755100247097e-07
+"1148" "School - International Leadership Charter School" 2 1.99755100247097e-07
+"1149" "School - International School for Liberal Arts" 2 1.99755100247097e-07
+"1150" "School - Irwin Altman Middle School 172" 2 1.99755100247097e-07
+"1151" "School - IS 093 Ridgewood" 2 1.99755100247097e-07
+"1152" "School - IS 131 Dr Sun Yat Sen" 2 1.99755100247097e-07
+"1153" "School - IS 250 The Robert F Kennedy Community Middle School" 2 1.99755100247097e-07
+"1154" "School - IS 254" 2 1.99755100247097e-07
+"1155" "School - IS 318 Math, Science, and Technology Through Arts" 2 1.99755100247097e-07
+"1156" "School - IS 347 School of Humanities" 2 1.99755100247097e-07
+"1157" "School - IS 5 - The Walter Crowley Intermediate School" 2 1.99755100247097e-07
+"1158" "School - IS 528 Bea Fuller Rodgers School" 2 1.99755100247097e-07
+"1159" "School - IS 75 Frank D Paulo" 2 1.99755100247097e-07
+"1160" "School - Jean Nuzzi Intermediate School" 2 1.99755100247097e-07
+"1161" "School - JHS 104 Simon Baruch" 2 1.99755100247097e-07
+"1162" "School - JHS 113 Ronald Edmonds Learning Center" 2 1.99755100247097e-07
+"1163" "School - JHS 118 William W Niles" 2 1.99755100247097e-07
+"1164" "School - JHS 13 Jackie Robinson" 2 1.99755100247097e-07
+"1165" "School - JHS 143 Eleanor Roosevelt" 2 1.99755100247097e-07
+"1166" "School - JHS 145 Arturo Toscaninni" 2 1.99755100247097e-07
+"1167" "School - JHS 158 Marie Curie" 2 1.99755100247097e-07
+"1168" "School - JHS 166 George Gershwin" 2 1.99755100247097e-07
+"1169" "School - JHS 189 Daniel Carter Beard" 2 1.99755100247097e-07
+"1170" "School - JHS 45 John S Roberts" 2 1.99755100247097e-07
+"1171" "School - JHS 57 Whitelaw Reid" 2 1.99755100247097e-07
+"1172" "School - John Dewey High School" 2 1.99755100247097e-07
+"1173" "School - John F Kennedy Jr School" 2 1.99755100247097e-07
+"1174" "School - Jonathan Levin High School for Media and Communications" 2 1.99755100247097e-07
+"1175" "School - Kappa II" 2 1.99755100247097e-07
+"1176" "School - Kappa IV" 2 1.99755100247097e-07
+"1177" "School - Kipp Infinity Charter School" 2 1.99755100247097e-07
+"1178" "School - Knowledge and Power Preparatory Academy International High School (Kappa)" 2 1.99755100247097e-07
+"1179" "School - Kurt Hahn Expeditionary Learning School" 2 1.99755100247097e-07
+"1180" "School - Leadership and Public Service High School" 2 1.99755100247097e-07
+"1181" "School - Learning to Work YABC at Monroe Academy" 2 1.99755100247097e-07
+"1182" "School - Lower East Side School at PS 315" 2 1.99755100247097e-07
+"1183" "School - Mark Twain IS 239 for the Gifted and Talented" 2 1.99755100247097e-07
+"1184" "School - Marsh Avenue School for Expeditionary Learning" 2 1.99755100247097e-07
+"1185" "School - Marta Valle Secondary School" 2 1.99755100247097e-07
+"1186" "School - Mathematics, Science Research, and Technology Magnet High School" 2 1.99755100247097e-07
+"1187" "School - Metropolitan Expeditionary Learning School" 2 1.99755100247097e-07
+"1188" "School - Middle School of Marketing and Legal Studies" 2 1.99755100247097e-07
+"1189" "School - Monroe Academy for Visual Arts and Design" 2 1.99755100247097e-07
+"1190" "School - Mott Hall Bronx High School" 2 1.99755100247097e-07
+"1191" "School - Mott Hall V" 2 1.99755100247097e-07
+"1192" "School - Mott Haven Village Preparatory High School" 2 1.99755100247097e-07
+"1193" "School - MS 129 Academy for Independent Learning and Leadership" 2 1.99755100247097e-07
+"1194" "School - MS 2" 2 1.99755100247097e-07
+"1195" "School - MS 203" 2 1.99755100247097e-07
+"1196" "School - MS 224 Manhattan East School for Arts and Academics" 2 1.99755100247097e-07
+"1197" "School - MS 250 West Side Collaborative Middle School" 2 1.99755100247097e-07
+"1198" "School - MS 260 Clinton School Writers and Artists" 2 1.99755100247097e-07
+"1199" "School - MS 328 - Manhattan Middle School for Scientific Inquiry" 2 1.99755100247097e-07
+"1200" "School - MS 53 Brian Piccolo" 2 1.99755100247097e-07
+"1201" "School - MS X101 Edward R Byrne" 2 1.99755100247097e-07
+"1202" "School - Neighborhood School" 2 1.99755100247097e-07
+"1203" "School - New Day Academy" 2 1.99755100247097e-07
+"1204" "School - New Dorp Evening High School - Mondays and Wednesdays" 2 1.99755100247097e-07
+"1205" "School - New Heights Middle School" 2 1.99755100247097e-07
+"1206" "School - NYC Charter High School for Architecture, Engineering, and Construction Industries" 2 1.99755100247097e-07
+"1207" "School - Peninsula Preparatory Academy Charter School" 2 1.99755100247097e-07
+"1208" "School - Performance School" 2 1.99755100247097e-07
+"1209" "School - Progress High School for Professional Careers" 2 1.99755100247097e-07
+"1210" "School - PS 1 Courtlandt School" 2 1.99755100247097e-07
+"1211" "School - PS 10" 2 1.99755100247097e-07
+"1212" "School - PS 101 School in the Gardens" 2 1.99755100247097e-07
+"1213" "School - PS 103 Hector Fontanez" 2 1.99755100247097e-07
+"1214" "School - PS 106" 2 1.99755100247097e-07
+"1215" "School - PS 108 Captain Vincent G Fowler" 2 1.99755100247097e-07
+"1216" "School - PS 109 Sedgwick" 2 1.99755100247097e-07
+"1217" "School - PS 110 The Monitor" 2 1.99755100247097e-07
+"1218" "School - PS 113 Isaac Chauncey" 2 1.99755100247097e-07
+"1219" "School - PS 115 Glen Oaks" 2 1.99755100247097e-07
+"1220" "School - PS 119" 2 1.99755100247097e-07
+"1221" "School - PS 126 Jacob August Riis" 2 1.99755100247097e-07
+"1222" "School - PS 136 Roy Wilkins" 2 1.99755100247097e-07
+"1223" "School - PS 146 Howard Beach" 2 1.99755100247097e-07
+"1224" "School - PS 15 Jackie Robinson" 2 1.99755100247097e-07
+"1225" "School - PS 150 Christopher" 2 1.99755100247097e-07
+"1226" "School - PS 150 Tribeca Learning Center" 2 1.99755100247097e-07
+"1227" "School - PS 159 Luis Munoz Marin Biling" 2 1.99755100247097e-07
+"1228" "School - PS 16 Wakefield" 2 1.99755100247097e-07
+"1229" "School - PS 183 Robert L Stevenson" 2 1.99755100247097e-07
+"1230" "School - PS 184 Flushing Manor" 2 1.99755100247097e-07
+"1231" "School - PS 184 Shuang Wen" 2 1.99755100247097e-07
+"1232" "School - PS 19 Judith K Weiss" 2 1.99755100247097e-07
+"1233" "School - PS 19 The Curtis School" 2 1.99755100247097e-07
+"1234" "School - PS 191 Paul Robeson" 2 1.99755100247097e-07
+"1235" "School - PS 204 Morris Heights" 2 1.99755100247097e-07
+"1236" "School - PS 212" 2 1.99755100247097e-07
+"1237" "School - PS 22 Thomas Jefferson" 2 1.99755100247097e-07
+"1238" "School - PS 222 - Fire Fighter Christopher A Santora School" 2 1.99755100247097e-07
+"1239" "School - PS 23 Carter G Woodson" 2 1.99755100247097e-07
+"1240" "School - PS 236 Langston Hughes" 2 1.99755100247097e-07
+"1241" "School - PS 238 Anne Sullivan" 2 1.99755100247097e-07
+"1242" "School - PS 242 Leonard P Stavisky Early Childhood School" 2 1.99755100247097e-07
+"1243" "School - PS 245" 2 1.99755100247097e-07
+"1244" "School - PS 249 The Caton" 2 1.99755100247097e-07
+"1245" "School - PS 253 - Brooklyn" 2 1.99755100247097e-07
+"1246" "School - PS 26 Rufus King" 2 1.99755100247097e-07
+"1247" "School - PS 277 Gerritsen Beach" 2 1.99755100247097e-07
+"1248" "School - PS 290 Juan Morel Campos" 2 1.99755100247097e-07
+"1249" "School - PS 3 Raul Julia Micro Society" 2 1.99755100247097e-07
+"1250" "School - PS 307 Daniel Hale Williams" 2 1.99755100247097e-07
+"1251" "School - PS 32 Belmont" 2 1.99755100247097e-07
+"1252" "School - PS 321 William Penn" 2 1.99755100247097e-07
+"1253" "School - PS 330" 2 1.99755100247097e-07
+"1254" "School - PS 34 Franklin D Roosevelt" 2 1.99755100247097e-07
+"1255" "School - PS 340" 2 1.99755100247097e-07
+"1256" "School - PS 35 Franz Siegel" 2 1.99755100247097e-07
+"1257" "School - PS 35 The Clove Valley School" 2 1.99755100247097e-07
+"1258" "School - PS 36 Saint Albans School" 2 1.99755100247097e-07
+"1259" "School - PS 361 East Flatbush Early Childhood School" 2 1.99755100247097e-07
+"1260" "School - PS 37 - Multiple Intelligence School" 2 1.99755100247097e-07
+"1261" "School - PS 38 George Cromwell" 2 1.99755100247097e-07
+"1262" "School - PS 38 Rosedale" 2 1.99755100247097e-07
+"1263" "School - PS 39 Henry Bristow" 2 1.99755100247097e-07
+"1264" "School - PS 396 - Bronx" 2 1.99755100247097e-07
+"1265" "School - PS 40 Augustus Saint Gaudens" 2 1.99755100247097e-07
+"1266" "School - PS 41 Francis White" 2 1.99755100247097e-07
+"1267" "School - PS 42 Benjamin Altman" 2 1.99755100247097e-07
+"1268" "School - PS 46 Albert V Maniscalco" 2 1.99755100247097e-07
+"1269" "School - PS 48 William Wordsworth" 2 1.99755100247097e-07
+"1270" "School - PS 52 John C Thompson" 2 1.99755100247097e-07
+"1271" "School - PS 56 Harry Eichler" 2 1.99755100247097e-07
+"1272" "School - PS 56 Lewis H Latimer" 2 1.99755100247097e-07
+"1273" "School - PS 61 Francisco Oller" 2 1.99755100247097e-07
+"1274" "School - PS 62 Inocensio Casanova" 2 1.99755100247097e-07
+"1275" "School - PS 65 Mother Hale Academy" 2 1.99755100247097e-07
+"1276" "School - PS 65 The Academy of Innovative Learning" 2 1.99755100247097e-07
+"1277" "School - PS 66 Jacqueline Kennedy Onassis" 2 1.99755100247097e-07
+"1278" "School - PS 71 Forest" 2 1.99755100247097e-07
+"1279" "School - PS 75" 2 1.99755100247097e-07
+"1280" "School - PS 753 School for Career Development" 2 1.99755100247097e-07
+"1281" "School - PS 76 William Hallet" 2 1.99755100247097e-07
+"1282" "School - PS 79 - Horan School" 2 1.99755100247097e-07
+"1283" "School - PS 81 Thaddeus Stevens" 2 1.99755100247097e-07
+"1284" "School - PS 811 Connie Lekas School" 2 1.99755100247097e-07
+"1285" "School - PS 86 Kingsbridge Heights" 2 1.99755100247097e-07
+"1286" "School - PS 86 The Irvington" 2 1.99755100247097e-07
+"1287" "School - PS 88 S Silverstein Little Sparrow School" 2 1.99755100247097e-07
+"1288" "School - PS 9 Sarah Anderson" 2 1.99755100247097e-07
+"1289" "School - PS 90 George Meany" 2 1.99755100247097e-07
+"1290" "School - PS 971" 2 1.99755100247097e-07
+"1291" "School - PS M169 Robert F Kennedy" 2 1.99755100247097e-07
+"1292" "School - PS X015 Institute for Environmental Learning" 2 1.99755100247097e-07
+"1293" "School - PS X176" 2 1.99755100247097e-07
+"1294" "School - PS X188" 2 1.99755100247097e-07
+"1295" "School - PS-MS 280 Mosholu Parkway" 2 1.99755100247097e-07
+"1296" "School - Queens High School for the Sciences at York College" 2 1.99755100247097e-07
+"1297" "School - Queens Metropolitan High School" 2 1.99755100247097e-07
+"1298" "School - Queens Preparatory Academy" 2 1.99755100247097e-07
+"1299" "School - Queens Vocational and Technical High School" 2 1.99755100247097e-07
+"1300" "School - Quest to Learn" 2 1.99755100247097e-07
+"1301" "School - Ralph R McKee Career and Technical Education High School" 2 1.99755100247097e-07
+"1302" "School - River East Elementary" 2 1.99755100247097e-07
+"1303" "School - Robert E Peary School" 2 1.99755100247097e-07
+"1304" "School - Robert F Wagner Jr Secondary School for Arts and Technology" 2 1.99755100247097e-07
+"1305" "School - Samuel Gompers Career and Technical Education High School" 2 1.99755100247097e-07
+"1306" "School - Scholars Academy" 2 1.99755100247097e-07
+"1307" "School - School of Math, Science, and Healthy Living" 2 1.99755100247097e-07
+"1308" "School - Schuylerville Preparatory High School" 2 1.99755100247097e-07
+"1309" "School - Science, Technology, and Research Early College High School at Erasmus" 2 1.99755100247097e-07
+"1310" "School - Sisulu-Walker Charter School of Harlem" 2 1.99755100247097e-07
+"1311" "School - South Bronx Charter School for International Cultures and the Arts" 2 1.99755100247097e-07
+"1312" "School - South Richmond High School IS-PS 25" 2 1.99755100247097e-07
+"1313" "School - South Shore High School" 2 1.99755100247097e-07
+"1314" "School - Success Academy Charter School Harlem 1" 2 1.99755100247097e-07
+"1315" "School - Success Academy Charter School Upper West" 2 1.99755100247097e-07
+"1316" "School - Suspension Center School - Sankofa Academy Middle School" 2 1.99755100247097e-07
+"1317" "School - Teachers Preparatory High School" 2 1.99755100247097e-07
+"1318" "School - The Brooklyn Academy of Global Finance" 2 1.99755100247097e-07
+"1319" "School - The Brooklyn Latin School" 2 1.99755100247097e-07
+"1320" "School - The Brooklyn School of Inquiry" 2 1.99755100247097e-07
+"1321" "School - The Business of Sports School" 2 1.99755100247097e-07
+"1322" "School - The Celia Cruz Bronx High School of Music" 2 1.99755100247097e-07
+"1323" "School - The Children's Workshop School" 2 1.99755100247097e-07
+"1324" "School - The Christa McAuliffe School-IS 187" 2 1.99755100247097e-07
+"1325" "School - The Cultural Arts Academy at Spring Creek Charter School" 2 1.99755100247097e-07
+"1326" "School - The East Village Community School" 2 1.99755100247097e-07
+"1327" "School - The Fresh Creek School" 2 1.99755100247097e-07
+"1328" "School - The Global Learning Collaborative" 2 1.99755100247097e-07
+"1329" "School - The Heritage School" 2 1.99755100247097e-07
+"1330" "School - The Michael J Petrides School" 2 1.99755100247097e-07
+"1331" "School - The Queens School of Inquiry" 2 1.99755100247097e-07
+"1332" "School - The School for Inquiry and Social Justice" 2 1.99755100247097e-07
+"1333" "School - The Science and Medicine Middle School" 2 1.99755100247097e-07
+"1334" "School - The Seeall Academy" 2 1.99755100247097e-07
+"1335" "School - The Urban Assembly School for Global Commerce" 2 1.99755100247097e-07
+"1336" "School - The Young Scholars Academy of the Bronx" 2 1.99755100247097e-07
+"1337" "School - Thomas C Giordano Middle School 45" 2 1.99755100247097e-07
+"1338" "School - Thurgood Marshall Academy Lower School" 2 1.99755100247097e-07
+"1339" "School - Tito Puente Education Complex" 2 1.99755100247097e-07
+"1340" "School - University Neighborhood High School" 2 1.99755100247097e-07
+"1341" "School - Urban Assembly School for the Performing Arts" 2 1.99755100247097e-07
+"1342" "School - Urban Institute of Mathematics" 2 1.99755100247097e-07
+"1343" "School - W H Maxwell Career and Technical Education High School" 2 1.99755100247097e-07
+"1344" "School - Walton YABC" 2 1.99755100247097e-07
+"1345" "School - Washington Heights Expeditionary Learning School" 2 1.99755100247097e-07
+"1346" "School - West Brooklyn Community High School" 2 1.99755100247097e-07
+"1347" "School - Wings Academy" 2 1.99755100247097e-07
+"1348" "School - World Journalism Preparatory: A College Board School" 2 1.99755100247097e-07
+"1349" "School - Young Leaders Elementary School" 2 1.99755100247097e-07
+"1350" "Alternative Superintendency" 1 9.98775501235485e-08
+"1351" "Bureau of Fire Prevention - Gas Station Discharge Unit - Inspections" 1 9.98775501235485e-08
+"1352" "CFC - Brooklyn South" 1 9.98775501235485e-08
+"1353" "CFC - Staten Island" 1 9.98775501235485e-08
+"1354" "Correspondence Unit" 1 9.98775501235485e-08
+"1355" "Department of Education - Parent Support" 1 9.98775501235485e-08
+"1356" "DOB" 1 9.98775501235485e-08
+"1357" "DOF Legal Affairs" 1 9.98775501235485e-08
+"1358" "DORIS" 1 9.98775501235485e-08
+"1359" "Early Care and Education Information Unit" 1 9.98775501235485e-08
+"1360" "LPC" 1 9.98775501235485e-08
+"1361" "New York Police Precinct" 1 9.98775501235485e-08
+"1362" "OMB" 1 9.98775501235485e-08
+"1363" "School - Academy for Public Relations" 1 9.98775501235485e-08
+"1364" "School - Academy for Software Engineering" 1 9.98775501235485e-08
+"1365" "School - Academy for Young Writers A" 1 9.98775501235485e-08
+"1366" "School - Academy of Applied Mathematics and Technology" 1 9.98775501235485e-08
+"1367" "School - Academy of Collaborative Education" 1 9.98775501235485e-08
+"1368" "School - Academy of Hospitality and Tourism" 1 9.98775501235485e-08
+"1369" "School - Academy of Public Relations" 1 9.98775501235485e-08
+"1370" "School - Achievement First Apollo Charter School" 1 9.98775501235485e-08
+"1371" "School - Achievement First Endeavor Charter School" 1 9.98775501235485e-08
+"1372" "School - Acorn High School for Social Justice" 1 9.98775501235485e-08
+"1373" "School - Adult and Continuing Education" 1 9.98775501235485e-08
+"1374" "School - Agnes Y Humphrey School for Leadership" 1 9.98775501235485e-08
+"1375" "School - ALC Fundamentals Academy" 1 9.98775501235485e-08
+"1376" "School - ALC Grady High School" 1 9.98775501235485e-08
+"1377" "School - ALC Lafayette Academy" 1 9.98775501235485e-08
+"1378" "School - ALC MS 258" 1 9.98775501235485e-08
+"1379" "School - Alfred E Smith Campus YABC" 1 9.98775501235485e-08
+"1380" "School - Archer Elementary School" 1 9.98775501235485e-08
+"1381" "School - Arts and Media Preparatory Academy" 1 9.98775501235485e-08
+"1382" "School - Astor Collegiate Academy" 1 9.98775501235485e-08
+"1383" "School - Banana Kelly High School" 1 9.98775501235485e-08
+"1384" "School - Bard High School Early College Queens" 1 9.98775501235485e-08
+"1385" "School - Baychester Academy" 1 9.98775501235485e-08
+"1386" "School - Baychester Middle School" 1 9.98775501235485e-08
+"1387" "School - Bedford Stuyvesant Collegiate Charter School" 1 9.98775501235485e-08
+"1388" "School - Bedford Stuyvesant Preparatory High School" 1 9.98775501235485e-08
+"1389" "School - Beginning With Children Charter School" 1 9.98775501235485e-08
+"1390" "School - Believe Northside Charter High School" 1 9.98775501235485e-08
+"1391" "School - Brighter Choice Community School" 1 9.98775501235485e-08
+"1392" "School - Bronx Center for Science and Mathematics" 1 9.98775501235485e-08
+"1393" "School - Bronx Charter School for the Arts" 1 9.98775501235485e-08
+"1394" "School - Bronx Engineering and Technology Academy" 1 9.98775501235485e-08
+"1395" "School - Bronx Green Middle School" 1 9.98775501235485e-08
+"1396" "School - Bronx International High School" 1 9.98775501235485e-08
+"1397" "School - Bronx Leadership Academy II High School" 1 9.98775501235485e-08
+"1398" "School - Bronx Park Middle School" 1 9.98775501235485e-08
+"1399" "School - Bronx Studio School for Writers and Artists" 1 9.98775501235485e-08
+"1400" "School - Brooklyn Ascend Charter School" 1 9.98775501235485e-08
+"1401" "School - Brooklyn College Academy" 1 9.98775501235485e-08
+"1402" "School - Brooklyn International High School" 1 9.98775501235485e-08
+"1403" "School - Brooklyn Secondary School for Collaborative Studies" 1 9.98775501235485e-08
+"1404" "School - Brooklyn Urban Garden Charter School" 1 9.98775501235485e-08
+"1405" "School - Brownsville Academy High School" 1 9.98775501235485e-08
+"1406" "School - Bushwick Leaders High School for Academic Excellence" 1 9.98775501235485e-08
+"1407" "School - Business of Sports School" 1 9.98775501235485e-08
+"1408" "School - Business, Computer Applications, and Entrepreneurship High School" 1 9.98775501235485e-08
+"1409" "School - C Columbus High School YABC" 1 9.98775501235485e-08
+"1410" "School - Carl C Icahn Bronx North Charter School" 1 9.98775501235485e-08
+"1411" "School - Carl C Icahn South Bronx Charter School" 1 9.98775501235485e-08
+"1412" "School - Celia Cruz Bronx High School of Music" 1 9.98775501235485e-08
+"1413" "School - Central Park East I" 1 9.98775501235485e-08
+"1414" "School - Christopher Avenue Community School" 1 9.98775501235485e-08
+"1415" "School - City College Academy of the Arts" 1 9.98775501235485e-08
+"1416" "School - Collaborative Academy of Science, Technology, and Law" 1 9.98775501235485e-08
+"1417" "School - Community School for Social Justice" 1 9.98775501235485e-08
+"1418" "School - Community Voices Middle School" 1 9.98775501235485e-08
+"1419" "School - Cornerstone Academy for Social Action" 1 9.98775501235485e-08
+"1420" "School - Cornerstone Academy for Social Action Middle School (CASA)" 1 9.98775501235485e-08
+"1421" "School - Cypress Hills Collegiate Preparatory School" 1 9.98775501235485e-08
+"1422" "School - Eagle Academy for Young Men III" 1 9.98775501235485e-08
+"1423" "School - East Flatbush Community Research School" 1 9.98775501235485e-08
+"1424" "School - East New York Middle School of Excellence" 1 9.98775501235485e-08
+"1425" "School - East Side Community High School" 1 9.98775501235485e-08
+"1426" "School - East Side Elementary School, PS 267" 1 9.98775501235485e-08
+"1427" "School - East Side Middle School" 1 9.98775501235485e-08
+"1428" "School - Eleanor Roosevelt High School" 1 9.98775501235485e-08
+"1429" "School - Elm Tree Elementary School" 1 9.98775501235485e-08
+"1430" "School - Emma Lazarus High School" 1 9.98775501235485e-08
+"1431" "School - Emolior Academy" 1 9.98775501235485e-08
+"1432" "School - Entrada Academy" 1 9.98775501235485e-08
+"1433" "School - Excellence Boys Charter School" 1 9.98775501235485e-08
+"1434" "School - Eximius College Preparatory Academy: A College Board School" 1 9.98775501235485e-08
+"1435" "School - Fanny High School for Fire and Life Safety" 1 9.98775501235485e-08
+"1436" "School - Far Rockaway High School" 1 9.98775501235485e-08
+"1437" "School - Foreign Language Academy of Global Studies" 1 9.98775501235485e-08
+"1438" "School - Fort Greene Preparatory Academy" 1 9.98775501235485e-08
+"1439" "School - Frances Perkins Academy" 1 9.98775501235485e-08
+"1440" "School - Franklin K Lane Campus YABC" 1 9.98775501235485e-08
+"1441" "School - Frederick Douglass Academy V Middle School" 1 9.98775501235485e-08
+"1442" "School - G Westinghouse Evening High School" 1 9.98775501235485e-08
+"1443" "School - George Washington Carver High School for the Sciences" 1 9.98775501235485e-08
+"1444" "School - Girls Preparatory Charter School of New York" 1 9.98775501235485e-08
+"1445" "School - Global Community Charter School" 1 9.98775501235485e-08
+"1446" "School - Global Neighborhood Secondary School" 1 9.98775501235485e-08
+"1447" "School - Global Technology Preparatory" 1 9.98775501235485e-08
+"1448" "School - Globe School for Environmental Research" 1 9.98775501235485e-08
+"1449" "School - Grant Avenue Elementary School" 1 9.98775501235485e-08
+"1450" "School - Great Oaks Charter School" 1 9.98775501235485e-08
+"1451" "School - Green Dot New York Charter School" 1 9.98775501235485e-08
+"1452" "School - Harlem Children's Zone Promise Academy II Charter School" 1 9.98775501235485e-08
+"1453" "School - Harlem Hebrew Language Charter School" 1 9.98775501235485e-08
+"1454" "School - Harlem Link Charter School" 1 9.98775501235485e-08
+"1455" "School - Harlem Prep Charter School" 1 9.98775501235485e-08
+"1456" "School - Harlem Renaissance High School" 1 9.98775501235485e-08
+"1457" "School - Harriet Tubman Charter School" 1 9.98775501235485e-08
+"1458" "School - Herbert H Lehman YABC" 1 9.98775501235485e-08
+"1459" "School - High School for Arts and Business" 1 9.98775501235485e-08
+"1460" "School - High School for Arts, Imagination and Inquiry" 1 9.98775501235485e-08
+"1461" "School - High School for Excellence and Innovation" 1 9.98775501235485e-08
+"1462" "School - High School for Media and Communications" 1 9.98775501235485e-08
+"1463" "School - High School for Public Service - Heroes of Tomorrow" 1 9.98775501235485e-08
+"1464" "School - High School for Teaching and the Professions" 1 9.98775501235485e-08
+"1465" "School - High School of Arts and Technology" 1 9.98775501235485e-08
+"1466" "School - Holcombe L Rucker School of Community Research" 1 9.98775501235485e-08
+"1467" "School - Hostos-Lincoln Academy of Science" 1 9.98775501235485e-08
+"1468" "School - Hunters Point Community Middle School" 1 9.98775501235485e-08
+"1469" "School - Hyde Leadership Charter School" 1 9.98775501235485e-08
+"1470" "School - Icahn Charter School 5" 1 9.98775501235485e-08
+"1471" "School - In-Tech Academy (MS - High School 368)" 1 9.98775501235485e-08
+"1472" "School - International High School at Lafayette" 1 9.98775501235485e-08
+"1473" "School - International High School at Laguardia Community College" 1 9.98775501235485e-08
+"1474" "School - Inwood Academy for Leadership Charter School" 1 9.98775501235485e-08
+"1475" "School - IS 232" 1 9.98775501235485e-08
+"1476" "School - IS 30 Mary White Ovington" 1 9.98775501235485e-08
+"1477" "School - IS 303 Leadership and Community Service" 1 9.98775501235485e-08
+"1478" "School - IS 318 Eugenio Maria De Hostos" 1 9.98775501235485e-08
+"1479" "School - IS 349 Math, Science, and Technology" 1 9.98775501235485e-08
+"1480" "School - IS 364 Gateway" 1 9.98775501235485e-08
+"1481" "School - IS 49 Berta A Dreyfus" 1 9.98775501235485e-08
+"1482" "School - IS 96 Seth Low" 1 9.98775501235485e-08
+"1483" "School - Isaac Newton Middle School for Math and Science" 1 9.98775501235485e-08
+"1484" "School - J M Rapport School Career Development" 1 9.98775501235485e-08
+"1485" "School - James Madison High School" 1 9.98775501235485e-08
+"1486" "School - JHS 14 Shell Bank" 1 9.98775501235485e-08
+"1487" "School - JHS 151 Lou Gehrig" 1 9.98775501235485e-08
+"1488" "School - JHS 202 Robert H Goddard" 1 9.98775501235485e-08
+"1489" "School - JHS 383 Philippa Schuyler" 1 9.98775501235485e-08
+"1490" "School - JHS 45 Thomas C Giordano" 1 9.98775501235485e-08
+"1491" "School - JHS 98 Herman Ridder" 1 9.98775501235485e-08
+"1492" "School - John V Lindsay Wildcat Academy Charter School" 1 9.98775501235485e-08
+"1493" "School - Jonas Bronck Academy" 1 9.98775501235485e-08
+"1494" "School - Kappa III" 1 9.98775501235485e-08
+"1495" "School - Kingsbridge International High School" 1 9.98775501235485e-08
+"1496" "School - Kipp Academy Charter School" 1 9.98775501235485e-08
+"1497" "School - Kipp STAR College Preparatory" 1 9.98775501235485e-08
+"1498" "School - Lafayette High School" 1 9.98775501235485e-08
+"1499" "School - Leadership Preparatory Ocean Hill Charter School" 1 9.98775501235485e-08
+"1500" "School - Leon M Goldstein High School for the Sciences" 1 9.98775501235485e-08
+"1501" "School - Liberation Diploma Plus" 1 9.98775501235485e-08
+"1502" "School - Life Academy High School for Film and Music" 1 9.98775501235485e-08
+"1503" "School - Lower Manhattan Community Middle School" 1 9.98775501235485e-08
+"1504" "School - Lyons Community School" 1 9.98775501235485e-08
+"1505" "School - Madiba Prep Middle School" 1 9.98775501235485e-08
+"1506" "School - Manhattan Business Academy" 1 9.98775501235485e-08
+"1507" "School - Manhattan Charter School II" 1 9.98775501235485e-08
+"1508" "School - Manhattan Comprehensive Night and Day High School" 1 9.98775501235485e-08
+"1509" "School - Manhattan International High School" 1 9.98775501235485e-08
+"1510" "School - Manhattan Village Academy" 1 9.98775501235485e-08
+"1511" "School - Metropolitan Diploma Plus High School" 1 9.98775501235485e-08
+"1512" "School - Metropolitan Lighthouse Charter School" 1 9.98775501235485e-08
+"1513" "School - Middle School for the Arts" 1 9.98775501235485e-08
+"1514" "School - Millennium High School" 1 9.98775501235485e-08
+"1515" "School - Mott Hall Elementary School" 1 9.98775501235485e-08
+"1516" "School - Mott Haven Academy Charter School" 1 9.98775501235485e-08
+"1517" "School - Mount Eden Children's Academy" 1 9.98775501235485e-08
+"1518" "School - MS 131" 1 9.98775501235485e-08
+"1519" "School - MS 158 Marie Curie" 1 9.98775501235485e-08
+"1520" "School - MS 180 Dr Daniel Hale Williams" 1 9.98775501235485e-08
+"1521" "School - MS 243 Center School" 1 9.98775501235485e-08
+"1522" "School - MS 324 - Patria Mirabal" 1 9.98775501235485e-08
+"1523" "School - MS 326 - Writers Today and Leaders Tomorrow" 1 9.98775501235485e-08
+"1524" "School - MS 390" 1 9.98775501235485e-08
+"1525" "School - MS 399" 1 9.98775501235485e-08
+"1526" "School - MS 596 Peace Academy" 1 9.98775501235485e-08
+"1527" "School - MS K394" 1 9.98775501235485e-08
+"1528" "School - Multicultural High School" 1 9.98775501235485e-08
+"1529" "School - Muscota" 1 9.98775501235485e-08
+"1530" "School - New Design High School" 1 9.98775501235485e-08
+"1531" "School - New Horizons School" 1 9.98775501235485e-08
+"1532" "School - New Millennium Business Academy Middle School" 1 9.98775501235485e-08
+"1533" "School - New Voices School of Academic and Creative Arts" 1 9.98775501235485e-08
+"1534" "School - New York French American Charter School" 1 9.98775501235485e-08
+"1535" "School - Newcomers High School" 1 9.98775501235485e-08
+"1536" "School - North Queens Community High School" 1 9.98775501235485e-08
+"1537" "School - Origins High School" 1 9.98775501235485e-08
+"1538" "School - Our World Neighborhood Charter School" 1 9.98775501235485e-08
+"1539" "School - Pablo Neruda Academy for Architecture and World Studies" 1 9.98775501235485e-08
+"1540" "School - Pan American International High School at Monroe" 1 9.98775501235485e-08
+"1541" "School - Peace and Diversity Academy" 1 9.98775501235485e-08
+"1542" "School - Pelham Academy of Academics and Community Engagement" 1 9.98775501235485e-08
+"1543" "School - Preparatory Academy for Writers: A College Board School" 1 9.98775501235485e-08
+"1544" "School - Professional Performing Arts" 1 9.98775501235485e-08
+"1545" "School - Professional Performing Arts High School" 1 9.98775501235485e-08
+"1546" "School - Providing Urban Learners Success in Education High School" 1 9.98775501235485e-08
+"1547" "School - PS 101 Andrew Draper" 1 9.98775501235485e-08
+"1548" "School - PS 104 The Bays Water" 1 9.98775501235485e-08
+"1549" "School - PS 108 Philip J Abinanti" 1 9.98775501235485e-08
+"1550" "School - PS 124 Yung Wing" 1 9.98775501235485e-08
+"1551" "School - PS 126 Jacob Riis Community School" 1 9.98775501235485e-08
+"1552" "School - PS 130 Abram Stevens Hewitt" 1 9.98775501235485e-08
+"1553" "School - PS 130 Hernando De Soto" 1 9.98775501235485e-08
+"1554" "School - PS 130 Hernando Desoto" 1 9.98775501235485e-08
+"1555" "School - PS 132 Garret A Morgan" 1 9.98775501235485e-08
+"1556" "School - PS 133" 1 9.98775501235485e-08
+"1557" "School - PS 134" 1 9.98775501235485e-08
+"1558" "School - PS 134 Hollis" 1 9.98775501235485e-08
+"1559" "School - PS 14 Cornelius Vanderbilt" 1 9.98775501235485e-08
+"1560" "School - PS 140" 1 9.98775501235485e-08
+"1561" "School - PS 146 Edward Collins" 1 9.98775501235485e-08
+"1562" "School - PS 147 Isaac Remsen" 1 9.98775501235485e-08
+"1563" "School - PS 154 Harriet Tubman" 1 9.98775501235485e-08
+"1564" "School - PS 154 Queens" 1 9.98775501235485e-08
+"1565" "School - PS 155" 1 9.98775501235485e-08
+"1566" "School - PS 157 Grove Hill" 1 9.98775501235485e-08
+"1567" "School - PS 163 Flushing Heights" 1 9.98775501235485e-08
+"1568" "School - PS 165 Edith K Bergtraum" 1 9.98775501235485e-08
+"1569" "School - PS 17" 1 9.98775501235485e-08
+"1570" "School - PS 171 Patrick Henry" 1 9.98775501235485e-08
+"1571" "School - PS 174 Dumont" 1 9.98775501235485e-08
+"1572" "School - PS 176" 1 9.98775501235485e-08
+"1573" "School - PS 18 Edward Bush" 1 9.98775501235485e-08
+"1574" "School - PS 181 Brookfield" 1 9.98775501235485e-08
+"1575" "School - PS 184 Newport" 1 9.98775501235485e-08
+"1576" "School - PS 186 Castlewood" 1 9.98775501235485e-08
+"1577" "School - PS 186 Walter J Damrosch School" 1 9.98775501235485e-08
+"1578" "School - PS 188 The Island School" 1 9.98775501235485e-08
+"1579" "School - PS 190 Sheffield" 1 9.98775501235485e-08
+"1580" "School - PS 197" 1 9.98775501235485e-08
+"1581" "School - PS 198" 1 9.98775501235485e-08
+"1582" "School - PS 199X The Shakespeare School" 1 9.98775501235485e-08
+"1583" "School - PS 20 Anna Silver" 1 9.98775501235485e-08
+"1584" "School - PS 203 Oakland Gardens" 1 9.98775501235485e-08
+"1585" "School - PS 21 Margaret Emery - Elm Park" 1 9.98775501235485e-08
+"1586" "School - PS 212 - Bronx" 1 9.98775501235485e-08
+"1587" "School - PS 212 Midtown West" 1 9.98775501235485e-08
+"1588" "School - PS 213 The Carl Ullman School" 1 9.98775501235485e-08
+"1589" "School - PS 219 Paul Klapper" 1 9.98775501235485e-08
+"1590" "School - PS 224" 1 9.98775501235485e-08
+"1591" "School - PS 225 Seaside" 1 9.98775501235485e-08
+"1592" "School - PS 23 at Queens Children Center" 1 9.98775501235485e-08
+"1593" "School - PS 231" 1 9.98775501235485e-08
+"1594" "School - PS 256" 1 9.98775501235485e-08
+"1595" "School - PS 257 John F Hylan" 1 9.98775501235485e-08
+"1596" "School - PS 264 Bay Ridge Elementary School for the Arts" 1 9.98775501235485e-08
+"1597" "School - PS 277" 1 9.98775501235485e-08
+"1598" "School - PS 28 The Thomas Emanuel Early Childhood Center" 1 9.98775501235485e-08
+"1599" "School - PS 280" 1 9.98775501235485e-08
+"1600" "School - PS 287 Bailey K Ashford" 1 9.98775501235485e-08
+"1601" "School - PS 307 Eames Place" 1 9.98775501235485e-08
+"1602" "School - PS 309 George E Wibecan" 1 9.98775501235485e-08
+"1603" "School - PS 31 Samuel F Dupont" 1 9.98775501235485e-08
+"1604" "School - PS 31 William T Davis" 1 9.98775501235485e-08
+"1605" "School - PS 315 Lab School" 1 9.98775501235485e-08
+"1606" "School - PS 325" 1 9.98775501235485e-08
+"1607" "School - PS 326" 1 9.98775501235485e-08
+"1608" "School - PS 34 John Harvard" 1 9.98775501235485e-08
+"1609" "School - PS 36" 1 9.98775501235485e-08
+"1610" "School - PS 370" 1 9.98775501235485e-08
+"1611" "School - PS 39 Francis J Murphy Jr" 1 9.98775501235485e-08
+"1612" "School - PS 396 - Brooklyn" 1 9.98775501235485e-08
+"1613" "School - PS 397 Foster-Laurie" 1 9.98775501235485e-08
+"1614" "School - PS 41 Crocheron" 1 9.98775501235485e-08
+"1615" "School - PS 44 David C Farragut" 1 9.98775501235485e-08
+"1616" "School - PS 44 Marcus Garvey" 1 9.98775501235485e-08
+"1617" "School - PS 5 Port Morris" 1 9.98775501235485e-08
+"1618" "School - PS 51" 1 9.98775501235485e-08
+"1619" "School - PS 6" 1 9.98775501235485e-08
+"1620" "School - PS 62 Chester Park" 1 9.98775501235485e-08
+"1621" "School - PS 66" 1 9.98775501235485e-08
+"1622" "School - PS 7 Kingsbridge" 1 9.98775501235485e-08
+"1623" "School - PS 721 - Manhattan Occupational Training Center" 1 9.98775501235485e-08
+"1624" "School - PS 721 Stephen Mcsweeney School" 1 9.98775501235485e-08
+"1625" "School - PS 75 School of Research and Discovery" 1 9.98775501235485e-08
+"1626" "School - PS 771" 1 9.98775501235485e-08
+"1627" "School - PS 79 Creston" 1 9.98775501235485e-08
+"1628" "School - PS 811 - Queens" 1 9.98775501235485e-08
+"1629" "School - PS 81Q Jean Paul Richter" 1 9.98775501235485e-08
+"1630" "School - PS 86" 1 9.98775501235485e-08
+"1631" "School - PS 89 Cypress Hills" 1 9.98775501235485e-08
+"1632" "School - PS 9" 1 9.98775501235485e-08
+"1633" "School - PS 91 Bronx" 1 9.98775501235485e-08
+"1634" "School - PS 94" 1 9.98775501235485e-08
+"1635" "School - PS 96" 1 9.98775501235485e-08
+"1636" "School - PS K077" 1 9.98775501235485e-08
+"1637" "School - PS K134" 1 9.98775501235485e-08
+"1638" "School - PS K141" 1 9.98775501235485e-08
+"1639" "School - PS K369 Coy L Cox School" 1 9.98775501235485e-08
+"1640" "School - PS K721 Brooklyn Occupational Training Center" 1 9.98775501235485e-08
+"1641" "School - PS K753 School for Career Development" 1 9.98775501235485e-08
+"1642" "School - PS M226" 1 9.98775501235485e-08
+"1643" "School - PS M721 Manhattan Occupational Training Center" 1 9.98775501235485e-08
+"1644" "School - PS M811 Mickey Mantle School" 1 9.98775501235485e-08
+"1645" "School - PS MS 138 Sunrise" 1 9.98775501235485e-08
+"1646" "School - PS Q086" 1 9.98775501235485e-08
+"1647" "School - PS Q16 The Nancy DeBenedittis School" 1 9.98775501235485e-08
+"1648" "School - PS Q177" 1 9.98775501235485e-08
+"1649" "School - PS Q255" 1 9.98775501235485e-08
+"1650" "School - PS Q811" 1 9.98775501235485e-08
+"1651" "School - PS R037" 1 9.98775501235485e-08
+"1652" "School - PS R373" 1 9.98775501235485e-08
+"1653" "School - PS X010" 1 9.98775501235485e-08
+"1654" "School - PS X014 Senator John Calandra" 1 9.98775501235485e-08
+"1655" "School - PS X114 Luis Llorens Torres Schools" 1 9.98775501235485e-08
+"1656" "School - PS-IS 137 Rachel Jean Mitchell" 1 9.98775501235485e-08
+"1657" "School - PS-IS 187 Hudson Cliffs" 1 9.98775501235485e-08
+"1658" "School - PS-MS 4 Crotona Park West" 1 9.98775501235485e-08
+"1659" "School - PS-MS138 Sunrise" 1 9.98775501235485e-08
+"1660" "School - Queens Academy High School" 1 9.98775501235485e-08
+"1661" "School - Queens Collegiate: A College Board School" 1 9.98775501235485e-08
+"1662" "School - Repertory Company High School for Theatre Arts" 1 9.98775501235485e-08
+"1663" "School - Riverdale - Kingsbridge Academy (Middle School-High School 141)" 1 9.98775501235485e-08
+"1664" "School - Roads Charter School II" 1 9.98775501235485e-08
+"1665" "School - Rockway Park High School for Environmental Sustainability" 1 9.98775501235485e-08
+"1666" "School - Ronald Edmonds Learning Center II" 1 9.98775501235485e-08
+"1667" "School - Ross Global Academy Charter School" 1 9.98775501235485e-08
+"1668" "School - Satellite West Middle School" 1 9.98775501235485e-08
+"1669" "School - Scholars' Academy" 1 9.98775501235485e-08
+"1670" "School - School for Community Research and Learning" 1 9.98775501235485e-08
+"1671" "School - School of Business, Finance, and Entrepreneurship" 1 9.98775501235485e-08
+"1672" "School - School of Diplomacy" 1 9.98775501235485e-08
+"1673" "School - Secondary School for Journalism" 1 9.98775501235485e-08
+"1674" "School - Secondary School for Research" 1 9.98775501235485e-08
+"1675" "School - Soundview Academy for Culture and Scholarship" 1 9.98775501235485e-08
+"1676" "School - South Bronx Classical Charter School" 1 9.98775501235485e-08
+"1677" "School - Staten Island Community Charter School" 1 9.98775501235485e-08
+"1678" "School - Staten Island School of Civic Leadership" 1 9.98775501235485e-08
+"1679" "School - Success Academy Charter School Bed-Stuy 1" 1 9.98775501235485e-08
+"1680" "School - Success Academy Charter School Brooklyn 6" 1 9.98775501235485e-08
+"1681" "School - Success Academy Charter School Harlem 4" 1 9.98775501235485e-08
+"1682" "School - Success Academy Charter School Harlem 5" 1 9.98775501235485e-08
+"1683" "School - Success Academy Charter School Manhattan 1" 1 9.98775501235485e-08
+"1684" "School - Summit Academy Charter School" 1 9.98775501235485e-08
+"1685" "School - The Academy for Excellence through the Arts" 1 9.98775501235485e-08
+"1686" "School - The Active Learning Elementary School" 1 9.98775501235485e-08
+"1687" "School - The Anderson School" 1 9.98775501235485e-08
+"1688" "School - The Brooklyn School for Math and Research" 1 9.98775501235485e-08
+"1689" "School - The College Academy" 1 9.98775501235485e-08
+"1690" "School - The Hunts Point School" 1 9.98775501235485e-08
+"1691" "School - The Metropolitan High School" 1 9.98775501235485e-08
+"1692" "School - The New School for Leadership and Journalism" 1 9.98775501235485e-08
+"1693" "School - The Opportunity Charter School" 1 9.98775501235485e-08
+"1694" "School - The Renaissance Charter School" 1 9.98775501235485e-08
+"1695" "School - The School of Science and Applied Learning" 1 9.98775501235485e-08
+"1696" "School - The Urban Assembly School for the Urban Environment" 1 9.98775501235485e-08
+"1697" "School - Thomas A Edison Career and Technical Education High School" 1 9.98775501235485e-08
+"1698" "School - Upper School at PS 25" 1 9.98775501235485e-08
+"1699" "School - Urban Assembly Academy of Arts and Letters" 1 9.98775501235485e-08
+"1700" "School - Urban Assembly New York Harbor School" 1 9.98775501235485e-08
+"1701" "School - Urban Assembly School for Wildlife Conservation" 1 9.98775501235485e-08
+"1702" "School - Urban Scholars Community School" 1 9.98775501235485e-08
+"1703" "School - Village Academy" 1 9.98775501235485e-08
+"1704" "School - Vista Academy" 1 9.98775501235485e-08
+"1705" "School - Waterside Children's Studio School" 1 9.98775501235485e-08
+"1706" "School - Waterside Childrens Studio School" 1 9.98775501235485e-08
+"1707" "School - Waterside School for Leadership" 1 9.98775501235485e-08
+"1708" "School - West Prepartory Academy" 1 9.98775501235485e-08
+"1709" "School - Women's Academy of Excellence" 1 9.98775501235485e-08
+"1710" "School - World Academy for Total Community Health High School" 1 9.98775501235485e-08
+"1711" "School - Young Women's Leadership School - Astoria" 1 9.98775501235485e-08
+"1712" "School - Young Women's Leadership School - Queens" 1 9.98775501235485e-08
+"1713" "School - Young Women's Leadership School of the Bronx" 1 9.98775501235485e-08
+"1714" "TFA" 1 9.98775501235485e-08

@@ -8,7 +8,6 @@ The code of this work can be found [here](https://github.com/GersR/Data_Incubato
 ```{r, echo=FALSE,results='hide',message=FALSE,warning=FALSE}
 lapply(c('dplyr','maps','mapproj','rgeos','maptools','rgdal','sp','ggmap','ggplot2','knitr','akima','gstat','geoR','arm','corrplot','spBayes','fields','lsr','reshape','parallel'), require, character.only=T)
 Sys.setlocale('LC_ALL','en_US.utf-8')
-setwd("~/Dropbox/FInales/Final Tere")
 ```
 
 # Data
